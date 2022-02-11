@@ -1,0 +1,33 @@
+{% include base.html %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>{{ page.title }}</title>
+  {% include head.html %}
+  <!-- for mathjax support -->
+  {% if page.usemathjax %}
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+    TeX: { equationNumbers: { autoNumber: "AMS" } }
+    });
+  </script>
+  <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  {% endif %}
+</head>
+<body id="index">
+  {% include navbar.html %}
+  <div class="container">
+    {% unless page.manualrow %}<div class="row">{% endunless %}
+{{ content }}
+    {% unless page.manualrow %}</div>{% endunless %}
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        {% include footer.html %}
+      </div>
+    </div>
+  </div>
+{% include postbody.html %}
+</body>
+</html>

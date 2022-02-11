@@ -1,0 +1,14 @@
+<div class="footer">
+<hr class="separator" />
+The Einstein Toolkit has been supported by NSF 
+{% for grant in site.data.grants-%}
+<a href='https://nsf.gov/awardsearch/showAward?AWD_ID={{grant.id}}&HistoricalAwards=false'>{{grant.id}}</a>
+{%-if grant.name != nil-%}
+  {%-if grant.name != empty-%} {{grant.name}}{%-endif-%}
+    {%-if forloop.last != true-%}, NSF {% endif-%}
+  {%-else-%}/{%-endif-%}
+{%-endfor-%}.
+Any opinions, findings, and conclusions or recommendations expressed in this material
+are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+Site last updated: {{site.time}}
+</div>

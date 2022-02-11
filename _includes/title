@@ -1,0 +1,2 @@
+{%-comment-%}extracts the title from the lecture in XX-"tag"{%-endcomment-%}
+{%-include get tag=include.tag field="title"-%}
