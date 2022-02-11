@@ -1,4 +1,4 @@
-baseurl: /et2021uiuc
+baseurl: /et2022uidaho
 sass:
   sass_dir: _sass
 incremental: true
