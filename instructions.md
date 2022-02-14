@@ -8,9 +8,9 @@ title: Instructions
 
 ## Connecting
 The school will be completely virtual with sessions hosted via the University
-of Illinois' Zoom subscription. In order to join, you will need to log into
+of Idaho's Zoom subscription. In order to join, you will need to log into
 your Zoom account (any account, it does not have to be associated with a
-University) and there will be a waiting room. A live video stream of the
+University) and there may be a waiting room. A live video stream of the
 meeting will be available on YouTube once the meeting starts. Please note that
 some sessions will be recorded.
 
@@ -26,12 +26,12 @@ session" for the tutorials and also general discussions.
 Gitter chat:
 [https://gitter.im/EinsteinToolkit/workshop](https://gitter.im/EinsteinToolkit/workshop)
 
-The Zoom meeting opens at 7:45AM CDT each day, the school program starts at
-8:25AM CDT. Zoom login information is provided in the information package sent
+The Zoom meeting opens at 8:00AM Pacific Time each day, the school program starts at
+8:25AM Pacific Time. Zoom login information is provided in the information package sent
 to each registered participant.
 
 ## YouTube Stream
-A life stream is provided via [YouTube](https://go.illinois.edu/et2021uiuc).
+A live stream is provided via [YouTube](youtube.com)?
 Please note that there is about a 30s delay, so please enter all questions to
 speeakers well in advance of the end of the preseentation.
 

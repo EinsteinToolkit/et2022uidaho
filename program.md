@@ -87,10 +87,10 @@ day5:
 
 |                 |  start                            |  end                            |
 |-----------------|-----------------------------------|---------------------------------|
-| US Central time | {{page.start | date: "%I:%M %p"}} | {{page.end | date: "%I:%M %p"}} |
-| US Pacific time | {{page.start | date: "%s" | minus: 7200 | date: "%I:%M %p"}} | {{page.end | date: "%s" | minus: 7200 | date: "%I:%M %p"}} |
-| Central EU time | {{page.start | date: "%s" | plus: 25200 | date: "%I:%M %p"}} | {{page.end | date: "%s" | plus: 25200 | date: "%I:%M %p"}} |
-| [Other time zones](https://www.timeanddate.com/worldclock/converter.html?iso=20210726T140000&p1=64&p2=51&p3=78&p4=141&p5=176&p6=33&p7=538&p8=240) |  |
+| US Pacific Time | {{page.start | date: "%I:%M %p"}} | {{page.end | date: "%I:%M %p"}} |
+| US Eastern Time | {{page.start | date: "%s" | minus: 7200 | date: "%I:%M %p"}} | {{page.end | date: "%s" | plus: 10800 | date: "%I:%M %p"}} |
+| Central European Time | {{page.start | date: "%s" | plus: 25200 | date: "%I:%M %p"}} | {{page.end | date: "%s" | plus: 32400 | date: "%I:%M %p"}} |
+| [Other time zones](https://www.timeanddate.com/worldclock/converter.html?iso=20220214T220000&p1=3993&p2=195&p3=33&p4=248&p5=176&p6=64&p7=179) |  |
 
 </div> <!--tzinfo-->
 </div>
