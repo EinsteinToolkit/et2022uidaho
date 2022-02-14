@@ -9,7 +9,7 @@ manualrows: true
 <div class="row fix">
 
 <div class="col-sm-12" markdown="1">
-# About the Summer School
+# Key People
 </div>
 
 <div class="col-xs-6 col-sm-3" markdown="1">
