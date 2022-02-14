@@ -70,4 +70,5 @@ If you have any questions, please contact the organizers at [workshop@einsteinto
 ## Sponsored by
 ![NSF logo](images/logo/logo_nsf.jpg){: class="textwrapright" style='height: 4em' }
 NSF [OAC-2004879](https://nsf.gov/awardsearch/showAward?AWD_ID=2004311&HistoricalAwards=false) "The Einstein Toolkit ecosystem: Enabling fundamental research in the era of multi-messenger astrophysics".
+## Banner image CC BY-SA 2.0 [Lynn Suckow](https://www.flickr.com/people/88887525@N00), modified as follows: Cropped, with Einstein Toolkit and University of Idaho logos superposed.
 </div>
