@@ -9,3 +9,5 @@ collections:
 # only. Github (2021-04-20) uses 3.9. See: https://pages.github.com/versions/
 #   order:
 #     - 00-AlbertEinsteint/index.d
+
+theme: jekyll-theme-leap-day
