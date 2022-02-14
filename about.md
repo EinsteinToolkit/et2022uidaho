@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: Key People
 manualrows: true
 
 manualrows: true
@@ -14,53 +14,32 @@ manualrows: true
 
 <div class="col-xs-6 col-sm-3" markdown="1">
 ## Scientific Organizing Committee
-* Steven R. Brandt
 * Zachariah Etienne
+* Leonardo Rosa Werneck
 * Roland Haas
-* Philipp Moesta
-* Helvi Witek
-* Yosef Zlochower
+* TBD
 </div>
 
 <div class="col-xs-6 col-sm-3" markdown="1">
 ## Local  Organizing Committee
-* Steven R. Brandt
-* Miguel Gracia
-* Roland Haas
-* Helvi Witek
+* Zachariah Etienne
+* Leonardo Rosa Werneck
+* Jessica DeWitt
 </div>
 
 <div class="col-xs-6 col-sm-3" markdown="1">
 ## Lecturers
-* Maria Babiuc
-* Steve Brandt
-* Peter Diener
-* Joshua Faber
-* Bruno Giacomazzo
-* Atul Kedia
-* Vassilios Mewes
-* Leonardo Werneck
-* Helvi Witek
-* Yosef Zlochower
+* TBD
 </div>
 
 <div class="col-xs-6 col-sm-3" markdown="1">
 ## Invited Speakers
-* Gabriele Bozzola
-* Federico Cipolleta
-* Boris Daszuta
-* Deborah Ferguson
-* Wolfgang Kastaun
-* Samuel Tootle
-* Barry Wardell
-* Don Willcox
+* TBD
 </div>
 
 <div class="col-xs-6 col-sm-3" markdown="1">
 ## Contributors
-* Zachariah Etienne
-* Philipp Moesta
-* Antonios Tsokaros
+* TBD
 </div>
 
 <div class="col-xs-6 col-sm-3" markdown="1">
@@ -70,7 +49,7 @@ manualrows: true
 
 <div class="col-xs-6 col-sm-3" markdown="1">
 ## Beta Testers
-* Samuel Cupp
+* TBD
 </div>
 
 </div> <!--row-->
