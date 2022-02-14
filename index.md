@@ -24,19 +24,17 @@ Venue:&nbsp;  | University of Idaho, simulcast via YouTube or Zoom
 </div>
 
 <div markdown="1">
-We are pleased to announce the 2022 edition of the North American
-Einstein Toolkit Workshop, which will take place in-person, with a
-virtual option for remote attendees. The Workshop, hosted by and held at the University of
-Idaho, will provide an opportunity for researchers and students to
-learn about the [Einstein Toolkit](https://einsteintoolkit.org/), a
-community-driven software platform of core computational tools to advance
-and support research in relativistic astrophysics and gravitational
-physics.
+The 2022 edition of the North American Einstein Toolkit Workshop will be held
+at the University of Idaho. Both in-person and virtual attendees are welcome to
+participate. The Workshop
+will provide an opportunity for researchers and students to gather and
+learn about the [Einstein Toolkit](https://einsteintoolkit.org/).
 
-The workshop will offer a mixture of talks and tutorials, with the
-tutorials including basic tutorials for new users and more advanced
-topics. The talks will, likewise, provide information for new users and
-will highlight exciting science cases and the latest developments in
+As the Einstein
+Toolkit provides a community-driven software platform of computational tools to
+advance and support research in relativistic astrophysics and gravitational
+physics, the Workshop will offer a mixture of talks and tutorials for both
+new and advanced users. The talks will highlight exciting science cases and the latest developments in
 numerical relativity. On the final day, we will discuss future directions
 and development.
 </div>
@@ -46,7 +44,7 @@ and development.
 
 You may attend either in person or virtually.
 
-**In-person**: The tabs above provide instructions on Travel and Accommodations.
+**In-person**: The tabs above provide information on Travel, Accommodations, and Venue.
 
 **Virtual**: Connection information will be emailed to you after you [register](register.html).
 
