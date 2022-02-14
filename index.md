@@ -18,11 +18,12 @@ Venue:&nbsp;  | University of Idaho, simulcast via YouTube or Zoom
 
 </div>
 
-<div class="col-xs-12 col-sm-7 col-md-8">
-<img src="images/ET_UIdaho.png" alt="Giant cartoon Einstein standing in the Palouse, alongside U of Idaho logo" style="max-height:80em;max-width:80%">
-</div>
-<div markdown="1">
 
+<div class="col-xs-12 col-sm-7 col-md-8">
+<img src="images/ET_UIdaho.png" alt="Giant cartoon Einstein standing in the Palouse, alongside U of Idaho logo" style="max-height:80em;max-width:50%">
+</div>
+
+<div markdown="1">
 We are pleased to announce the 2022 edition of the North American
 Einstein Toolkit Workshop, which will take place in-person, with a
 virtual option for remote attendees. The Workshop, hosted by and held at the University of
