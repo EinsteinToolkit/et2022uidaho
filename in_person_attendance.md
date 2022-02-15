@@ -25,7 +25,7 @@ as the most walkable city in the state of Idaho!
 <font size="2">Placeholder image.</font>
 </p>
 
-# Travelling to Moscow, ID
+# Traveling to Moscow, ID
 
 <p style='text-align: justify;'>
 There are two airports that serve the Moscow area. The
@@ -40,7 +40,7 @@ located in Pullman, WA, just 7 miles away from downtown Moscow.
 
 <p style='text-align: justify;'>
 The second airport is the <a href="https://spokaneairports.net">Spokane
-International Aiport</a>, located in Spokane, WA, 83 miles from downtown
+International Airport</a>, located in Spokane, WA, 83 miles from downtown
 Moscow.
 </p>
 
@@ -48,7 +48,7 @@ Moscow.
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d694130.4249222663!2d-117.74129834452323!3d47.188263390296314!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x549e16254e306331%3A0x70cd8b086ddc8e08!2sspokane%20international%20airport!3m2!1d47.6212063!2d-117.5333721!4m5!1s0x54a0279c33f11ad1%3A0xed78e077b5f09bbe!2sS%20Main%20St%2C%20Moscow%2C%20ID%2083843!3m2!1d46.723141899999995!2d-117.0014248!5e0!3m2!1sen!2sus!4v1644906479971!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 </p>
 
-# Accomodation
+# Accommodation
 
 <p style='text-align: justify;'>
 Participants who attend the event in-person are strongly encouraged to
