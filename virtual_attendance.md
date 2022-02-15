@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Instructions
+title: Virtual Attendee Information
 ---
 
 <div class="container-fluid" markdown="1">
