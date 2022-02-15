@@ -18,18 +18,21 @@ Venue:&nbsp;  | University of Idaho, simulcast via YouTube or Zoom
 
 </div>
 
-
 <div class="col-xs-12 col-sm-7 col-md-8">
-<img src="images/ET_UIdaho.png" alt="Giant cartoon Einstein standing in the Palouse, alongside U of Idaho logo" style="max-height:80em;max-width:55%">
-</div>
 
-<div markdown="1">
+<p align="center">
+<img src="images/ET_UIdaho.png" alt="Giant cartoon Einstein standing in the Palouse, alongside U of Idaho logo" width="750">
+</p>
+
+<p style='text-align: justify;'>
 The 2022 edition of the North American Einstein Toolkit Workshop will be held
 at the University of Idaho. Both in-person and virtual attendees are welcome to
 participate. The Workshop
 will provide an opportunity for researchers and students to gather and
-learn about the [Einstein Toolkit](https://einsteintoolkit.org/).
+learn about the <a href="https://einsteintoolkit.org/">Einstein Toolkit</a>.
+</p>
 
+<p style='text-align: justify;'>
 As the Einstein
 Toolkit provides a community-driven software platform of computational tools to
 advance and support research in relativistic astrophysics and gravitational
@@ -37,6 +40,7 @@ physics, the Workshop will offer a mixture of talks and tutorials for both
 new and advanced users. The talks will highlight exciting science cases and the latest developments in
 numerical relativity. On the final day, we will discuss future directions
 and development.
+</p>
 </div>
 
 <div class="col-xs-12 col-sm-6 col-md-4" markdown="1">
