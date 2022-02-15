@@ -12,8 +12,8 @@ href="https://www.uidaho.edu/sci/physics">Department of Physics</a> of
 the <a href="https://www.uidaho.edu">University of Idaho</a> in Moscow,
 ID. The physics building is located right next to downtown Moscow, home
 of many of the great restaurants our city has to offer. According to <a
-href="https://www.walkscore.com/ID/">walkscore.com</a> Moscow is rated
-as the most walkable city in the state of Idaho.
+href="https://www.walkscore.com/ID/">walkscore.com</a>, Moscow is rated
+as the most walkable city in the state of Idaho!
 </p>
 
 <p style='text-align: center;'>
@@ -51,7 +51,7 @@ Moscow.
 # Accomodation
 
 <p style='text-align: justify;'>
-Participants who attend the event in person are strongly encouraged to
+Participants who attend the event in-person are strongly encouraged to
 make reservations at one of the event hotels. Special rates will apply
 to those who book their rooms by *Date*.
 </p>
