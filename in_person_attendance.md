@@ -22,6 +22,37 @@ as the most walkable city in the state of Idaho!
 <font size="2"><strong>Left:</strong> James A. McClure Hall. <strong>Right:</strong> Engineering & Physics Building.</font>
 </p>
 
+<p style='text-align: center;'>
+Engineering & Physics Building
+<br>
+691 Ash Street
+<br>
+Moscow, ID, 83844, USA
+<br>
+<a href="tel:+12088856380">+1 (208) 885-6380</a>
+<br>
+<a href="https://goo.gl/maps/xV8GpXfB8fFo2FMt6">View location on Google maps</a>
+</p>
+
+We also encourage everyone to visit our amazing <a
+href="https://visitmoscowid.com/eat-and-drink/restaurants/">restaurants</a>
+and <a href="https://visitmoscowid.com/eat-and-drink/coffee-shops/">coffee
+shops</a>! We highly recommend visiting our historic
+<a href="https://visitmoscowid.com/see-and-do/farmers-market/">Farmer's Market</a>,
+held on Main Street each Saturday, May through October, from 8 a.m. to 1
+p.m. <a href="https://visitmoscowid.com/see-and-do/">Explore</a> all that our
+city has to offer!
+
+# COVID-19 guidelines
+
+All of those who wish to attend the event in-person are strongly
+encouraged to have been fully vaccinated for COVID-19. The event will be
+held in a room that allows everyone to social distance.
+
+<strong>As of February 15, 2022</strong>, face masks are <u>required</u>
+in all university buildings on the Moscow campus. We will update this
+notice as new guidelines become available.
+
 # Traveling to Moscow, ID
 
 <p style='text-align: justify;'>
