@@ -17,12 +17,9 @@ as the most walkable city in the state of Idaho!
 </p>
 
 <p style='text-align: center;'>
-<!-- <img src="images/uidaho_physics_building.jpg" alt="Physics and engineering building at the University of Idaho" width="500"> -->
-<!-- <br> -->
-<!-- <font size="2"><strong>Left:</strong> James A. McClure Hall. <strong>Right:</strong> Engineering & Physics Building.</font> -->
-<img src="images/ET_UIdaho.png" alt="Placeholder image" width="500">
+<img src="images/uidaho_physics_building.jpg" alt="Physics and engineering building at the University of Idaho" width="500">
 <br>
-<font size="2">Placeholder image.</font>
+<font size="2"><strong>Left:</strong> James A. McClure Hall. <strong>Right:</strong> Engineering & Physics Building.</font>
 </p>
 
 # Traveling to Moscow, ID
