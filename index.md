@@ -18,7 +18,7 @@ Venue:&nbsp;  | University of Idaho, simulcast via YouTube or Zoom
 
 </div>
 
-<div class="col-xs-12 col-sm-7 col-md-8">
+<div class="col-xs-12 col-sm-8 col-md-8">
 
 <p style='text-align: center;'>
 <img src="images/ET_UIdaho.png" alt="Giant cartoon Einstein standing in the Palouse, alongside U of Idaho logo" width="500">
