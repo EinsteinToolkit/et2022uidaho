@@ -11,7 +11,7 @@ title: North American Einstein Toolkit School 2022
 -------|--------------
 Date:  | June 13<sup>th</sup> 2022 to June 17<sup>th</sup> 2022
 Time:  | 8:25 AM PDT to 5:25 PM PDT
-Abstract deadline submission:  | May 1<sup>st</sup> 2022
+Registration & abstract submission deadline:  | May 1<sup>st</sup> 2022
 Chat:  | [gitter.im/<wbr>EinsteinToolkit/<wbr>workshop](https://gitter.im/EinsteinToolkit/workshop)
 Email: | [workshop@<wbr>einsteintoolkit.<wbr>org](mailto:workshop@einsteintoolkit.org)
 Venue:&nbsp;  | University of Idaho, simulcast via YouTube or Zoom
