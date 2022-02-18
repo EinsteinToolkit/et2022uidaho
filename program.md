@@ -9,64 +9,20 @@ title: Scientific Program
 # if no duration given it is assumed to be 45min for lectures and 20min for a break
 
 start: "8:25"
-end: "13:20"
+end: "17:25"
 # this is assumed to be 300s or 5minutes later on (6 unites per half hour)
-granularity: 300
+# granularity: 300
+granularity: 32400
 
 day1:
-  - Welcome:
-      duration: 15
-  - HelviWitek:
-      duration: 125
-  - break
-  - DonWillcox
-  - SteveBrandt
-  - ShortLightning1:
-      duration: 30
 
 day2:
-  - JoshuaFaber:
-      duration: 95
-  - AtulKedia2
-  - break
-  - BrunoGiacomazzo
-  - GabrieleBozzola:
-      duration: 30
-  - ErikSchnetter
 
 day3:
-  - VassiliosMewes:
-      duration: 130
-  - break
-  - FedericoCipolletta
-  - BorisDaszuta
-  - Lightning1
 
 day4:
-  - SamuelTootle:
-      duration: 30
-  - BarryWardell
-  - PeterDiener
-  - break
-  - DeborahFerguson
-  - HelviWitek2
-  - Lightning2
 
 day5:
-  - ShortLightning2:
-      duration: 30
-  - YosefZlochower:
-      duration: 65
-  - LeoWerneck:
-      duration: 35
-  - break
-  - LeoWerneck:
-      duration: 30
-  - WolfgangKastaun:
-      duration: 20
-  - VassiliosMewes2:
-      duration: 25
-  - FutureOfTheET
 
 ---
 
@@ -88,8 +44,8 @@ day5:
 |                 |  start                            |  end                            |
 |-----------------|-----------------------------------|---------------------------------|
 | US Pacific Time | {{page.start | date: "%I:%M %p"}} | {{page.end | date: "%I:%M %p"}} |
-| US Eastern Time | {{page.start | date: "%s" | minus: 7200 | date: "%I:%M %p"}} | {{page.end | date: "%s" | plus: 10800 | date: "%I:%M %p"}} |
-| Central European Time | {{page.start | date: "%s" | plus: 25200 | date: "%I:%M %p"}} | {{page.end | date: "%s" | plus: 32400 | date: "%I:%M %p"}} |
+| US Eastern Time | {{page.start | date: "%s" | plus: 10800 | date: "%I:%M %p"}} | {{page.end | date: "%s" | plus: 10800 | date: "%I:%M %p"}} |
+| Central European Time | {{page.start | date: "%s" | plus: 32400 | date: "%I:%M %p"}} | {{page.end | date: "%s" | plus: 32400 | date: "%I:%M %p"}} |
 | [Other time zones](https://www.timeanddate.com/worldclock/converter.html?iso=20220214T220000&p1=3993&p2=195&p3=33&p4=248&p5=176&p6=64&p7=179) |  |
 
 </div> <!--tzinfo-->
@@ -102,7 +58,7 @@ day5:
 Tentative, subject to change without notice.
 </div>-->
 
-All times US Central time.
+All times US Pacific time.
 
 {% assign starttime = page.start | date: "%s" | plus: 0-%}
 {%-assign endtime = page.end | date: "%s" | plus: 0-%}
@@ -111,18 +67,18 @@ All times US Central time.
 
 <table class="schedule">
 <tr><th> time </th>
-<th> Monday, July 26<sup>th</sup> </th>
-<th> Tuesday, July 27<sup>th</sup> </th>
-<th> Wednesday, July 28<sup>th</sup> </th>
-<th> Thursday, July 29<sup>th</sup> </th>
-<th> Friday, July 30<sup>th</sup> </th>
+<th> Monday, June 13<sup>th</sup> </th>
+<th> Tuesday, June 14<sup>th</sup> </th>
+<th> Wednesday, June 15<sup>th</sup> </th>
+<th> Thursday, June 16<sup>th</sup> </th>
+<th> Friday, June 17<sup>th</sup> </th>
 </tr>
 <tr><td class="time">07:55 AM</td>
-  <td>setup help</td>
-  <td>tutorial help</td>
-  <td>tutorial help</td>
-  <td>tutorial help</td>
-  <td>tutorial help</td>
+  <td>TBD</td>
+  <td>TBD</td>
+  <td>TBD</td>
+  <td>TBD</td>
+  <td>TBD</td>
 </tr>
 {%-for row in (0..maxrow)-%}
   {%-comment-%} create information for row of time in alternating colours {%-endcomment-%}
@@ -148,12 +104,12 @@ All times US Central time.
   {%-include intersect day=page.day5 column="day5" row=row %}
   </tr>
 {%-endfor-%}
-<tr><td class="time">01:20 PM</td>
-  <td>tutorial help</td>
-  <td>tutorial help</td>
-  <td>tutorial help</td>
-  <td>tutorial help</td>
-  <td>tutorial help</td>
+<tr><td class="time">05:25 PM</td>
+  <td>TBD</td>
+  <td>TBD</td>
+  <td>TBD</td>
+  <td>TBD</td>
+  <td>TBD</td>
 </tr>
 </table>
 
@@ -167,35 +123,35 @@ All times US Central time.
 <div class="row fix">
 
 <div class="col-sm-6">
-<h3>Monday, July 26<sup>th</sup>: Numerical Relativity</h3>
+<h3>Monday, July 26<sup>th</sup>: TBD</h3>
 
 {% include day_schedule_table.html day=page.day1 %}
 
 </div>
 
 <div class="col-sm-6">
-<h3>Tuesday, July 27<sup>th</sup>: Initial data</h3>
+<h3>Tuesday, July 27<sup>th</sup>: TBD</h3>
 
 {% include day_schedule_table.html day=page.day2 %}
 
 </div>
 
 <div class="col-sm-6">
-<h3>Wednesday, July 28<sup>th</sup>: Relativistic (magneto)-hydrodynamics</h3>
+<h3>Wednesday, July 28<sup>th</sup>: Field trip/hackaton</h3>
 
 {% include day_schedule_table.html day=page.day3 %}
 
 </div>
 
 <div class="col-sm-6">
-<h3>Thursday, July 29<sup>th</sup>: Thorn writting</h3>
+<h3>Thursday, July 29<sup>th</sup>: TBD</h3>
 
 {% include day_schedule_table.html day=page.day4 %}
 
 </div>
 
 <div class="col-sm-6">
-<h3>Friday, July 30<sup>th</sup>: Data analysis</h3>
+<h3>Friday, July 30<sup>th</sup>: TBD</h3>
 
 {% include day_schedule_table.html day=page.day5 %}
 
