@@ -10,7 +10,7 @@ Registration and abstract submission will open on March 1, 2022.
 
 A nominal registration fee will be required for in-person participants, to
 offset costs to run the Workshop. Virtual-only registration will be free.
-<-- In-person registration will be $40 for students, $80 for postdocs, and $100 for faculty.
+<!-- In-person registration will be $40 for students, $80 for postdocs, and $100 for faculty.
 This fee will offset non-reimburseable fees incurred by the conference organizers,
 such as e.g., coffee breaks. Virtual-only registration will be free. -->
 
