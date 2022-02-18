@@ -14,6 +14,7 @@ manualrows: true
 
 <div class="col-xs-6 col-sm-3" markdown="1">
 ## Scientific Organizing Committee
+* Gabrielle Allen
 * Steve Brandt
 * Zachariah Etienne
 * Roland Haas
