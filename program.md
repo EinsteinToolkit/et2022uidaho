@@ -73,7 +73,7 @@ All times US Pacific time.
 <th> Thursday, June 16<sup>th</sup> </th>
 <th> Friday, June 17<sup>th</sup> </th>
 </tr>
-<tr><td class="time">07:55 AM</td>
+<tr><td class="time">08:25 AM</td>
   <td>TBD</td>
   <td>TBD</td>
   <td>TBD</td>
