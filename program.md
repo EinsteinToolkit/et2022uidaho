@@ -123,35 +123,35 @@ All times US Central time.
 <div class="row fix">
 
 <div class="col-sm-6">
-<h3>Monday, July 26<sup>th</sup>: TBD</h3>
+<h3>Monday, June 13<sup>th</sup>: TBD</h3>
 
 {% include day_schedule_table.html day=page.day1 %}
 
 </div>
 
 <div class="col-sm-6">
-<h3>Tuesday, July 27<sup>th</sup>: TBD</h3>
+<h3>Tuesday, June 14<sup>th</sup>: TBD</h3>
 
 {% include day_schedule_table.html day=page.day2 %}
 
 </div>
 
 <div class="col-sm-6">
-<h3>Wednesday, July 28<sup>th</sup>: Field trip/hackaton</h3>
+<h3>Wednesday, June 15<sup>th</sup>: Field trip/hackaton</h3>
 
 {% include day_schedule_table.html day=page.day3 %}
 
 </div>
 
 <div class="col-sm-6">
-<h3>Thursday, July 29<sup>th</sup>: TBD</h3>
+<h3>Thursday, June 16<sup>th</sup>: TBD</h3>
 
 {% include day_schedule_table.html day=page.day4 %}
 
 </div>
 
 <div class="col-sm-6">
-<h3>Friday, July 30<sup>th</sup>: TBD</h3>
+<h3>Friday, June 17<sup>th</sup>: TBD</h3>
 
 {% include day_schedule_table.html day=page.day5 %}
 
