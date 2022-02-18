@@ -41,10 +41,11 @@ day5:
 
 <div class="tzinfo" markdown="1">
 
-|                 |  start                            |  end                            |
-|-----------------|-----------------------------------|---------------------------------|
-| US Pacific Time | {{page.start | date: "%I:%M %p"}} | {{page.end | date: "%I:%M %p"}} |
-| US Eastern Time | {{page.start | date: "%s" | plus: 10800 | date: "%I:%M %p"}} | {{page.end | date: "%s" | plus: 10800 | date: "%I:%M %p"}} |
+|                       |                            Start                             |                            End                             |
+|-----------------------|--------------------------------------------------------------|------------------------------------------------------------|
+|    US Pacific Time    | {{page.start |                            date: "%I:%M %p"}} | {{page.end |                            date: "%I:%M %p"}} |
+|    US Central Time    | {{page.start | date: "%s" | plus:  7200 | date: "%I:%M %p"}} | {{page.end | date: "%s" | plus:  7200 | date: "%I:%M %p"}} |
+|    US Eastern Time    | {{page.start | date: "%s" | plus: 10800 | date: "%I:%M %p"}} | {{page.end | date: "%s" | plus: 10800 | date: "%I:%M %p"}} |
 | Central European Time | {{page.start | date: "%s" | plus: 32400 | date: "%I:%M %p"}} | {{page.end | date: "%s" | plus: 32400 | date: "%I:%M %p"}} |
 | [Other time zones](https://www.timeanddate.com/worldclock/converter.html?iso=20220214T220000&p1=3993&p2=195&p3=33&p4=248&p5=176&p6=64&p7=179) |  |
 
@@ -118,7 +119,7 @@ All times US Pacific time.
 <div class="col-xs-12">
 <h2>Per-day schedules</h2>
 
-All times US Central time.
+All times US Pacific time.
 
 <div class="row fix">
 
