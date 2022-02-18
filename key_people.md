@@ -46,8 +46,8 @@ manualrows: true
 </div>
 
 <div class="col-xs-6 col-sm-3" markdown="1">
-## Graphics design
-<!--* Brittany Ball-->
+## Hackathon Mentors
+* TBD
 </div>
 
 <div class="col-xs-6 col-sm-3" markdown="1">
