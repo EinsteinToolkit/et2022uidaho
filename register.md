@@ -18,6 +18,9 @@ such as e.g., coffee breaks. Virtual-only registration will be free. -->
 If you have any questions, please contact the organizers at
 [workshop@einsteintoolkit.org](mailto:workshop@einsteintoolkit.org).
 
+If you have problems viewing the form below, please visit [this website
+to register](https://forms.gle/qyu4pThtaAHJxpdt5).
+
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeNCyHSfnTxZQLSqKpS73wCgmtwdHga3GGBa6CZnJj6C9B4lA/viewform?embedded=true" width="640" height="2513" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 </div>
