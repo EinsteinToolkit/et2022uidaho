@@ -151,7 +151,7 @@ day5:
 Tentative, subject to change without notice.
 </div>
 
-All times US Central time.
+All times US Pacific time.
 
 {% assign starttime = page.start | date: "%s" | plus: 0-%}
 {%-assign endtime = page.end | date: "%s" | plus: 0-%}
