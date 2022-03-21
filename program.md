@@ -11,8 +11,7 @@ title: Scientific Program
 start: "8:25"
 end: "17:25"
 # this is assumed to be 300s or 5minutes later on (6 unites per half hour)
-# granularity: 300
-granularity: 32400
+granularity: 300
 
 day1:
   - Welcome:
