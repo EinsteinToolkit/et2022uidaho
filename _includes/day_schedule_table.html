@@ -25,8 +25,8 @@
 
 {%-if _dst_tag == "break"-%}
   {%comment%}remove implicit 5min break from previous item{%endcomment%}
-  {%-assign _dst_start = _dst_start | minus: 300-%}
-  {%-assign _dst_end = _dst_end | minus: 300-%}
+  {%-assign _dst_start = _dst_start | minus: page.short_break_duration-%}
+  {%-assign _dst_end = _dst_end | minus: page.short_break_duration-%}
   {%-assign _dst_tag = _dst_prevtag-%}
   <tr><td> {{ _dst_start | date: "%I:%M %p" }}</td><td>{{ _dst_end | date: "%I:%M %p" }}</td>
   <td>break</td>
@@ -37,7 +37,7 @@
   <td><div markdown="1">{%-include schedule tag=_dst_tag %}{%if _dst_prevtag == _dst_tag%} (cont'd){%endif%}
   </div></td>
   </tr>
-  {%-assign _dst_start = _dst_end | plus: 300-%}
+  {%-assign _dst_start = _dst_end | plus: page.short_break_duration-%}
 {%-endif-%}
 {%-assign _dst_prevtag = _dst_tag-%}
 

@@ -10,8 +10,11 @@ title: Scientific Program
 
 start: "8:25"
 end: "17:25"
-# this is assumed to be 300s or 5minutes later on (6 unites per half hour)
+# scheduling granularity. Must be no smaller than shortest scheduled item (eg
+# the short break).
 granularity: 300
+# length of authomatic break between items, 0 to disable
+short_break_duration: 0
 
 day1:
   - Welcome:

@@ -28,8 +28,8 @@
 
     {%-if _dur_day_tag == "break"-%}
       {%comment%}remove implicit 5min break from previous item{%endcomment%}
-      {%-assign _dur_start = _dur_start | minus: 300-%}
-      {%-assign _dur_end = _dur_end | minus: 300-%}
+      {%-assign _dur_start = _dur_start | minus: page.short_break_duration-%}
+      {%-assign _dur_end = _dur_end | minus: page.short_break_duration-%}
       {%-assign _dur_start = _dur_end-%}
     {%-else-%}
       {%-if _dur_day_tag == _dur_tag-%}
@@ -37,7 +37,7 @@
         {%-assign _dur_max_end = _dur_end-%}
         {%-assign _dur_full_duration = _dur_full_duration | plus: _dur_end | minus: _dur_start-%}
       {%-endif-%}
-      {%-assign _dur_start = _dur_end | plus: 300-%}
+      {%-assign _dur_start = _dur_end | plus: page.short_break_duration-%}
     {%-endif-%}
   {%-endfor-%}
   {%-if _dur_min_start-%}{%-break-%}{%-endif-%}
