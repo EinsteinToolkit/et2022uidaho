@@ -160,11 +160,11 @@ All times US Pacific time.
 
 <table class="schedule">
 <tr><th> time </th>
-<th> Monday, July 26<sup>th</sup> </th>
-<th> Tuesday, July 27<sup>th</sup> </th>
-<th> Wednesday, July 28<sup>th</sup> </th>
-<th> Thursday, July 29<sup>th</sup> </th>
-<th> Friday, July 30<sup>th</sup> </th>
+<th> Monday, June 13<sup>th</sup> </th>
+<th> Tuesday, June 14<sup>th</sup> </th>
+<th> Wednesday, June 15<sup>th</sup> </th>
+<th> Thursday, June 16<sup>th</sup> </th>
+<th> Friday, June 17<sup>th</sup> </th>
 </tr>
 {%-for row in (0..maxrow)-%}
   {%-comment-%} create information for row of time in alternating colours {%-endcomment-%}
