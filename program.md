@@ -14,7 +14,7 @@ end: "17:25"
 # the short break).
 granularity: 300
 # length of authomatic break between items, 0 to disable
-short_break_duration: 0
+short_break_duration: 300
 
 day1:
   - Welcome:
