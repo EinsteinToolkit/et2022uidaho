@@ -5,7 +5,7 @@ title: Scientific Program
 # day schedules:
 # a list of tags for each lecture
 # a brak can be given as "breakX"
-# 5 minutes breaks are added at the end of lectures hwere needed
+# 5 minutes breaks are added at the end of lectures where needed
 # if no duration given it is assumed to be 45min for lectures and 20min for a break
 
 start: "8:25"
@@ -15,14 +15,104 @@ end: "17:25"
 granularity: 32400
 
 day1:
+  - Welcome:
+      duration: 20
+  - PlenaryTalk1:
+      duration: 40
+  - PlenaryTalk2:
+      duration: 40
+  - break:
+      duration: 25
+  - Lecture1:
+      duration: 40
+  - Lecture2:
+      duration: 40
+  - Lightning1:
+      duration: 15
+  - break:
+      duration: 60
+  - Tutorial1:
+      duration: 105
+  - break:
+      duration: 30
+  - Tutorial2:
+      duration: 105
 
 day2:
+  - Talk1:
+      duration: 40
+  - Talk2:
+      duration: 40
+  - break:
+      duration: 30
+  - Lecture3:
+      duration: 40
+  - Lecture4:
+      duration: 40
+  - Lightning2:
+      duration: 15
+  - Lightning3:
+      duration: 15
+  - break:
+      duration: 60
+  - Tutorial3:
+      duration: 105
+  - break:
+      duration: 30
+  - Tutorial4:
+      duration: 105
 
 day3:
+  - FieldTripHackaton:
+      duration: 540
 
 day4:
+  - Talk3:
+      duration: 40
+  - Talk4:
+      duration: 40
+  - break:
+      duration: 30
+  - Lecture5:
+      duration: 40
+  - Lecture6:
+      duration: 40
+  - Lightning4:
+      duration: 15
+  - Lightning5:
+      duration: 15
+  - break:
+      duration: 60
+  - Tutorial5:
+      duration: 105
+  - break:
+      duration: 30
+  - Tutorial6:
+      duration: 105
 
 day5:
+  - Talk5:
+      duration: 40
+  - Talk6:
+      duration: 40
+  - break:
+      duration: 30
+  - Lecture7:
+      duration: 40
+  - Lecture8:
+      duration: 40
+  - Lightning6:
+      duration: 15
+  - Lightning7:
+      duration: 15
+  - break:
+      duration: 60
+  - Tutorial7:
+      duration: 105
+  - break:
+      duration: 30
+  - Tutorial8:
+      duration: 105
 
 ---
 
@@ -55,11 +145,11 @@ day5:
 
 <div class="col-xs-12" markdown="1">
 ## Schedule overview
-<!--<div class="alert alert-warning" role="alert">
+<div class="alert alert-warning" role="alert">
 Tentative, subject to change without notice.
-</div>-->
+</div>
 
-All times US Pacific time.
+All times US Central time.
 
 {% assign starttime = page.start | date: "%s" | plus: 0-%}
 {%-assign endtime = page.end | date: "%s" | plus: 0-%}
@@ -68,18 +158,11 @@ All times US Pacific time.
 
 <table class="schedule">
 <tr><th> time </th>
-<th> Monday, June 13<sup>th</sup> </th>
-<th> Tuesday, June 14<sup>th</sup> </th>
-<th> Wednesday, June 15<sup>th</sup> </th>
-<th> Thursday, June 16<sup>th</sup> </th>
-<th> Friday, June 17<sup>th</sup> </th>
-</tr>
-<tr><td class="time">08:25 AM</td>
-  <td>TBD</td>
-  <td>TBD</td>
-  <td>TBD</td>
-  <td>TBD</td>
-  <td>TBD</td>
+<th> Monday, July 26<sup>th</sup> </th>
+<th> Tuesday, July 27<sup>th</sup> </th>
+<th> Wednesday, July 28<sup>th</sup> </th>
+<th> Thursday, July 29<sup>th</sup> </th>
+<th> Friday, July 30<sup>th</sup> </th>
 </tr>
 {%-for row in (0..maxrow)-%}
   {%-comment-%} create information for row of time in alternating colours {%-endcomment-%}
@@ -105,13 +188,6 @@ All times US Pacific time.
   {%-include intersect day=page.day5 column="day5" row=row %}
   </tr>
 {%-endfor-%}
-<tr><td class="time">05:25 PM</td>
-  <td>TBD</td>
-  <td>TBD</td>
-  <td>TBD</td>
-  <td>TBD</td>
-  <td>TBD</td>
-</tr>
 </table>
 
 </div>
@@ -124,14 +200,14 @@ All times US Pacific time.
 <div class="row fix">
 
 <div class="col-sm-6">
-<h3>Monday, June 13<sup>th</sup>: TBD</h3>
+<h3>Monday, June 13<sup>th</sup>: TBA</h3>
 
 {% include day_schedule_table.html day=page.day1 %}
 
 </div>
 
 <div class="col-sm-6">
-<h3>Tuesday, June 14<sup>th</sup>: TBD</h3>
+<h3>Tuesday, June 14<sup>th</sup>: TBA</h3>
 
 {% include day_schedule_table.html day=page.day2 %}
 
@@ -145,14 +221,14 @@ All times US Pacific time.
 </div>
 
 <div class="col-sm-6">
-<h3>Thursday, June 16<sup>th</sup>: TBD</h3>
+<h3>Thursday, June 16<sup>th</sup>: TBA</h3>
 
 {% include day_schedule_table.html day=page.day4 %}
 
 </div>
 
 <div class="col-sm-6">
-<h3>Friday, June 17<sup>th</sup>: TBD</h3>
+<h3>Friday, June 17<sup>th</sup>: TBA</h3>
 
 {% include day_schedule_table.html day=page.day5 %}
 
