@@ -5,30 +5,7 @@ invited_speakers_tuple = namedtuple("invited_speakers_tuple","firstName lastName
 invited_speakers_dict = {}
 
 # Plenary speakers
-invited_speakers_dict["Campaneli"   ] = invited_speakers_tuple("Manuela" ,"Campaneli"   ,"plenary talk","An overview of numerical relativity"           ,  "Monday, June 13, 2022","08:25 AM",  "40min", "01","manuela@astro.rit.edu")
-invited_speakers_dict["Okounkova"   ] = invited_speakers_tuple("Masha"   ,"Okounkova"   ,"plenary talk","Numerical relativity beyond general relativity",  "Monday, June 13, 2022","09:05 AM",  "40min", "02","mokounkova@flatironinstitute.org")
-invited_speakers_dict["Duez"        ] = invited_speakers_tuple("Matt"    ,"Duez"        ,"lecture"     ,"Introduction to General Relativistic MHD"      ,  "Monday, June 13, 2022","11:25 AM",  "40min", "03","m.duez@wsu.edu")
-invited_speakers_dict["Zlochower"   ] = invited_speakers_tuple("Yosef"   ,"Zlochower"   ,"tutorial"    ,"Writing an Einstein Toolkit thorn"             ,  "Monday, June 13, 2022","03:40 PM","1h45min", "04","yosef@astro.rit.edu")
-invited_speakers_dict["Tichy"       ] = invited_speakers_tuple("Wolfgang","Tichy"       ,"talk"        ,"The SGRID initial data code"                   , "Tuesday, June 14, 2022","08:25 AM",  "40min", "05","wolf@fau.edu")
-invited_speakers_dict["Grandclément"] = invited_speakers_tuple("Philippe","Grandclément","talk"        ,"The Kadath initial data code"                  , "Tuesday, June 14, 2022","09:10 AM",  "40min", "06","philippe.grandclement@obspm.fr")
-invited_speakers_dict["Assumpção"   ] = invited_speakers_tuple("Thiago"  ,"Assumpção"   ,"lecture"     ,"The NRPyElliptic initial data code"            , "Tuesday, June 14, 2022","10:25 AM",  "40min", "07","assumpcaothiago@gmail.com")
-invited_speakers_dict["Vu"          ] = invited_speakers_tuple("Nils"    ,"Vu"          ,"lecture"     ,"The SpeCTRE initial data solver"               , "Tuesday, June 14, 2022","11:10 AM",  "40min", "08","nils.vu@black-holes.org")
-invited_speakers_dict["Gupte"       ] = invited_speakers_tuple("Tanmayee","Gupte"       ,"tutorial"    ,"Generating neutron star ID with LORENE"        , "Tuesday, June 14, 2022","01:25 PM","1h45min", "09","tmg9722@rit.edu")
-invited_speakers_dict["Crosas"      ] = invited_speakers_tuple("Mercè"   ,"Crosas"      ,"talk"        ,"Data formats for numerical relativity"         ,"Thursday, June 16, 2022","08:25 AM",  "40min", "10","mcrosas@g.harvard.edu")
-invited_speakers_dict["Clough"      ] = invited_speakers_tuple("Katy"    ,"Clough"      ,"talk"        ,"GRChombo"                                      ,"Thursday, June 16, 2022","09:10 AM",  "40min", "11","katy.a.clough@gmail.com")
-invited_speakers_dict["Stein"       ] = invited_speakers_tuple("Leo"     ,"Stein"       ,"talk"        ,"Black Hole Perturbation Toolkit"               ,"Thursday, June 16, 2022","10:25 AM",  "40min", "12","lcstein@olemiss.edu")
-invited_speakers_dict["Schmidt"     ] = invited_speakers_tuple("Patricia","Schmidt"     ,"lecture"     ,"Gravitational wave modeling"                   ,"Thursday, June 16, 2022","11:10 AM",  "40min", "13","pschmidt@star.sr.bham.ac.uk")
-invited_speakers_dict["Warburton"   ] = invited_speakers_tuple("Niels"   ,"Warburton"   ,"tutorial"    ,"The black hole perturbation toolkit"           ,"Thursday, June 16, 2022","01:25 PM","1h45min", "14","niels.warburton@ucd.ie")
-invited_speakers_dict["Bozzola"     ] = invited_speakers_tuple("Gabriele","Bozzola"     ,"tutorial"    ,"Visualizing data with Kuibit"                  ,"Thursday, June 16, 2022","03:40 PM","1h45min", "15","gabrielebozzola@email.arizona.edu")
-invited_speakers_dict["Schnetter"   ] = invited_speakers_tuple("Erik"    ,"Schnetter"   ,"talk"        ,"Future of the Einstein Toolkit: CarpetX"       ,  "Friday, June 17, 2022","08:25 AM",  "40min", "16","eschnetter@perimeterinstitute.ca")
-invited_speakers_dict["Giacomazzo"  ] = invited_speakers_tuple("Bruno"   ,"Giacomazzo"  ,"talk"        ,"The Spritz code"                               ,  "Friday, June 17, 2022","09:10 AM",  "40min", "17","bruno.giacomazzo@unimib.it")
-invited_speakers_dict["Lovelace"    ] = invited_speakers_tuple("Geoffrey","Lovelace"    ,"talk"        ,"The SpEC and SPECTRE codes"                    ,  "Friday, June 17, 2022","09:10 AM",  "40min", "18","glovelace@fullerton.edu")
-invited_speakers_dict["Kalinani"    ] = invited_speakers_tuple("Jay"     ,"Kalinani"    ,"tutorial"    ,"Writing GPU codes for the Einstein Toolkit"    ,  "Friday, June 17, 2022","01:25 PM","1h45min", "19","jayvijay.kalinani@phd.unipd.it")
-invited_speakers_dict["Cupp"        ] = invited_speakers_tuple("Sam"     ,"Cupp"        ,"tutorial"    ,"EMRIs with the Einstein Toolkit"               ,  "Friday, June 17, 2022","03:40 PM","1h45min", "20","scupp1@my.apsu.edu")
-
-# for speaker_key in invited_speakers_dict:
-#     speaker = invited_speakers_dict[speaker_key]
-#     print(f"{speaker.firstName} {speaker.lastName} will be invited to give a {speaker.talkType} on {speaker.talkDate} at {speaker.talkTime} on \"{speaker.talkTopic}\".")
+invited_speakers_dict["Example"] = invited_speakers_tuple("FirstName","LastName","plenary talk","Example plenary talk","Monday, June 13, 2022","08:25 AM","40min", "01","example@example.com")
 
 
 def compose_email(speaker):
