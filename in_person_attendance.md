@@ -78,16 +78,14 @@ Moscow.
 
 # Accommodation
 
-<p style='text-align: justify;'>
-Participants who attend the event in-person are strongly encouraged to
-make reservations at one of the event hotels. Special rates will apply
-to those who book their rooms by **June 1, 2022** using [this link](https://www.marriott.com/event-reservations/reservation-link.mi?id=1647978841560&key=GRP&app=resvlink).
-</p>
-
 ## Fairfield Inn & Suites Moscow
 
+<p style='text-align: justify;'>
 This is the preferred hotel for the event, located just half a mile away
-from the Engineering & Physics building.
+from the Engineering & Physics building. Special rates will apply to those who
+book their rooms by <strong>June 1, 2022</strong> using <a
+href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1647978841560&key=GRP&app=resvlink">thislink</a>.
+</p>
 
 <p style='text-align: center;'>
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d2734.6854490402184!2d-117.01395578431267!3d46.73166535599744!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x54a0278090f1ff65%3A0x245d1725bc0c141b!2sFairfield%20Inn%20%26%20Suites%20by%20Marriott%20Moscow%2C%201000%20W%20Pullman%20Rd%2C%20Moscow%2C%20ID%2083843!3m2!1d46.7339139!2d-117.01410759999999!4m5!1s0x54a02786789997e3%3A0x14dbc079d02d50c4!2sUniversity%20of%20Idaho%20Department%20of%20Physics%2C%20691%20Ash%20St%2C%20Moscow%2C%20ID%2083844%2C%20United%20States!3m2!1d46.7293333!2d-117.00966489999999!5e0!3m2!1sen!2sus!4v1644907163377!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
@@ -107,8 +105,10 @@ Moscow, ID, 83843, USA
 
 ## The Monarch Motel
 
+<p style='text-align: justify;'>
 This is the second hotel recommended by the event, also closely located to the
 Engineering & Physics building.
+</p>
 
 <p style='text-align: center;'>
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d2734.7762150444073!2d-117.00819163421848!3d46.729875256119236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x54a02778e787eaff%3A0xf3b95ed587c7e73!2sThe%20Monarch%20Motel%2C%20West%206th%20Street%2C%20Moscow%2C%20ID!3m2!1d46.730226599999995!2d-117.00231749999999!4m5!1s0x54a02786789997e3%3A0x14dbc079d02d50c4!2sUniversity%20of%20Idaho%20Department%20of%20Physics%2C%20691%20Ash%20St%2C%20Moscow%2C%20ID%2083844%2C%20United%20States!3m2!1d46.7293333!2d-117.00966489999999!5e0!3m2!1sen!2sus!4v1648840294677!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
