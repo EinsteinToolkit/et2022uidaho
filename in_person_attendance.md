@@ -83,8 +83,7 @@ Moscow.
 <p style='text-align: justify;'>
 This is the preferred hotel for the event, located just half a mile away
 from the Engineering & Physics building. Special rates will apply to those who
-book their rooms by <strong>June 1, 2022</strong> using <a
-href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1647978841560&key=GRP&app=resvlink">thislink</a>.
+book their rooms by <strong>June 1, 2022</strong> using <a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1647978841560&key=GRP&app=resvlink">thislink</a>.
 </p>
 
 <p style='text-align: center;'>
