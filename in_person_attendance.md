@@ -81,7 +81,7 @@ Moscow.
 <p style='text-align: justify;'>
 Participants who attend the event in-person are strongly encouraged to
 make reservations at one of the event hotels. Special rates will apply
-to those who book their rooms by *Date*.
+to those who book their rooms by **June 1, 2022** using [this link](https://www.marriott.com/event-reservations/reservation-link.mi?id=1647978841560&key=GRP&app=resvlink).
 </p>
 
 ## Fairfield Inn & Suites Moscow
@@ -101,25 +101,27 @@ Moscow, ID, 83843, USA
 <a href="tel:+12088824600">+1 (208) 882-4600</a>
 <br>
 <a href="https://www.marriott.com/hotels/travel/puwfi-fairfield-inn-and-suites-moscow/">Hotel website</a>
+<br>
+<a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1647978841560&key=GRP&app=resvlink">Click here to book your reservation</a>
 </p>
 
-## Best Western Plus University Inn
+## The Monarch Motel
 
-This is the second hotel recommended by the event, located just under a
-mile away from the Engineering & Physics building.
+This is the second hotel recommended by the event, also closely located to the
+Engineering & Physics building.
 
 <p style='text-align: center;'>
-<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d5469.399149491245!2d-117.02143127213681!3d46.73138677031131!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x549f88286824fb2f%3A0xb58be77f35218402!2sBest%20Western%20Plus%20University%20Inn%2C%201516%20Pullman%20Rd%2C%20Moscow%2C%20ID%2083843!3m2!1d46.7334083!2d-117.02370379999999!4m5!1s0x54a02786789997e3%3A0x14dbc079d02d50c4!2sUniversity%20of%20Idaho%20Department%20of%20Physics%2C%20691%20Ash%20St%2C%20Moscow%2C%20ID%2083844%2C%20United%20States!3m2!1d46.7293333!2d-117.00966489999999!5e0!3m2!1sen!2sus!4v1644907403588!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d2734.7762150444073!2d-117.00819163421848!3d46.729875256119236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x54a02778e787eaff%3A0xf3b95ed587c7e73!2sThe%20Monarch%20Motel%2C%20West%206th%20Street%2C%20Moscow%2C%20ID!3m2!1d46.730226599999995!2d-117.00231749999999!4m5!1s0x54a02786789997e3%3A0x14dbc079d02d50c4!2sUniversity%20of%20Idaho%20Department%20of%20Physics%2C%20691%20Ash%20St%2C%20Moscow%2C%20ID%2083844%2C%20United%20States!3m2!1d46.7293333!2d-117.00966489999999!5e0!3m2!1sen!2sus!4v1648840294677!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br><br>
-Best Western Plus University Inn
+The Monarch Motel
 <br>
-1516 Pullman Road
+120 West 6th St
 <br>
 Moscow, ID, 83843, USA
 <br>
-<a href="tel:+12088820550">+1 (208) 882-0550</a>
+<a href="tel:+12088822581">+1 (208) 882-2581</a>
 <br>
-<a href="https://www.bestwestern.com/en_US/book/hotels-in-moscow/best-western-plus-university-inn/propertyCode.13035.html">Hotel website</a>
+<a href="https://moscowmonarch.com/">Hotel website</a>
 </p>
 
 </div>
