@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: "LIGO Hampton Field Trip / Hackaton"
+title: "LIGO Hanford Field Trip / Hackaton"
 author: The Scientific Organizing Committee
 institution: University of Idaho
 # upload your slides as slides.pdf
