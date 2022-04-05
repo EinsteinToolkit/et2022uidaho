@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: Tutorial: TBA
+title: "Tutorial: TBA"
 author: Yosef Zlochower
 institution: Rochester Institute of Technology
 # upload your slides as slides.pdf

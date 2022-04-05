@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: Talk/Lecture: TBA
+title: "Talk/Lecture: TBA"
 author: Barry Wardell
 institution: University College Dublin
 # upload your slides as slides.pdf

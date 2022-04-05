@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: Talk/Lecture: TBA
+title: "Talk/Lecture: TBA"
 author: Thiago Assumpção
 institution: West Virginia University
 # upload your slides as slides.pdf

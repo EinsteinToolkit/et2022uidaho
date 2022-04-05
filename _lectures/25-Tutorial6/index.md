@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: Tutorial: TBA
+title: "Tutorial: TBA"
 author: Gabriele Bozzola
 institution: University of Arizona
 # upload your slides as slides.pdf

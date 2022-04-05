@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: Talk/Lecture: TBA
+title: "Talk/Lecture: TBA"
 author: Matt Anderson
 institution: Idaho National Laboratory
 # upload your slides as slides.pdf

@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: Talk/Lecture: TBA
+title: "Talk/Lecture: TBA"
 author: Jay Kalinani
 institution: University of Padova
 # upload your slides as slides.pdf

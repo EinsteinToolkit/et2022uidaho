@@ -1,9 +1,9 @@
 ---
 layout: default
 usemathjax: true
-title: Tutorial: TBA
-author: Tanmayee Gupte (<font color='orange'>Confirmation pending</font>)
-institution: Rochester Institute of Technology
+title: "Tutorial: TBA"
+author: TBA
+institution: TBA
 # upload your slides as slides.pdf
 # upload your recorded talk as recording.mp4
 # all other files in this directory will show up as "additional files"

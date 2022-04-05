@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: Talk/Lecture: TBA
+title: "Talk/Lecture: TBA"
 author: Leo Werneck
 institution: University of Idaho
 # upload your slides as slides.pdf

@@ -1,9 +1,9 @@
 ---
 layout: default
 usemathjax: true
-title: Talk/Lecture: TBA
-author: Patricia Schmidt (<font color='orange'>Confirmation pending</font>)
-institution: University of Birmingham
+title: "Talk/Lecture: TBA"
+author: TBA
+institution: TBA
 # upload your slides as slides.pdf
 # upload your recorded talk as recording.mp4
 # all other files in this directory will show up as "additional files"

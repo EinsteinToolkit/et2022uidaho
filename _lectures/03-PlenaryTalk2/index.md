@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: Plenary Talk: TBA
+title: "Plenary Talk: TBA"
 author: Masha Okounkova
 institution: Flatiron Institute
 # upload your slides as slides.pdf

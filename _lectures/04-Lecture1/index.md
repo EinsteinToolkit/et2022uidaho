@@ -1,8 +1,8 @@
 ---
 layout: default
 usemathjax: true
-title: Talk/Lecture: TBA
-author: Francesca Sammarruca (<font color='orange'>confirmation pending</font>)
+title: "Talk/Lecture: TBA"
+author: Francesca Sammarruca (<font color='orange'>Confirmation pending</font>)
 institution: University of Idaho
 # upload your slides as slides.pdf
 # upload your recorded talk as recording.mp4

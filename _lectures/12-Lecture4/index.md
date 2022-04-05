@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: Talk/Lecture: TBA
+title: "Talk/Lecture: TBA"
 author: Nils Vu
 institution: Max Planck Institute for Gravitational Physics
 # upload your slides as slides.pdf

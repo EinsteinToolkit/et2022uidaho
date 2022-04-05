@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: Talk/Lecture: TBA
+title: "Talk/Lecture: TBA"
 author: Helvi Witek
 institution: University of Illinois Urbana-Champaign
 # upload your slides as slides.pdf

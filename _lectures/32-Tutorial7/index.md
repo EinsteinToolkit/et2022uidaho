@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: Tutorial: TBA
+title: "Tutorial: TBA"
 author: Roland Haas
 institution: National Center for Supercomputing Applications 
 # upload your slides as slides.pdf

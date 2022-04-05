@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: Tutorial: TBA
+title: "Tutorial: TBA"
 author: Niels Warburton
 institution: University College Dublin
 # upload your slides as slides.pdf
