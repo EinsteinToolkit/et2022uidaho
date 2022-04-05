@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: "Talk/Lecture: TBA"
+title: "The Spritz code"
 author: Jay Kalinani
 institution: University of Padova
 # upload your slides as slides.pdf

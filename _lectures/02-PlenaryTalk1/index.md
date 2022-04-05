@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: "Plenary Talk: TBA"
+title: "An overview of numerical relativity"
 author: Manuela Campanelli
 institution: Rochester Institute of Technology
 # upload your slides as slides.pdf

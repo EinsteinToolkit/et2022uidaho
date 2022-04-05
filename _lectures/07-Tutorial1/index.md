@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: "Tutorial: TBA"
+title: "Tutorial: Introduction to the Einstein Toolkit"
 author: Steve Brandt
 institution: Louisiana State University
 # upload your slides as slides.pdf

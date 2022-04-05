@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: "Talk/Lecture: TBA"
+title: "Docker containers and the Einstein Toolkit"
 author: Matt Anderson
 institution: Idaho National Laboratory
 # upload your slides as slides.pdf

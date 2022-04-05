@@ -1,8 +1,8 @@
 ---
 layout: default
 usemathjax: true
-title: "Talk/Lecture: TBA"
-author: Francesca Sammarruca (<font color='orange'>Confirmation pending</font>)
+title: "Nuclear physics of neutron stars"
+author: Francesca Sammarruca
 institution: University of Idaho
 # upload your slides as slides.pdf
 # upload your recorded talk as recording.mp4

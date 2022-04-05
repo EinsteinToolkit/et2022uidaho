@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: "Tutorial: TBA"
+title: "Tutorial: Visualizing data with Kuibit"
 author: Gabriele Bozzola
 institution: University of Arizona
 # upload your slides as slides.pdf

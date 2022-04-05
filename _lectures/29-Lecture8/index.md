@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: "Talk/Lecture: TBA"
+title: "The SpEC and SPECTRE codes"
 author: Geoffrey Lovelace
 institution: California State University
 # upload your slides as slides.pdf

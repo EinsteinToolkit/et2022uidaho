@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: "Tutorial: TBA"
+title: "Tutorial: Extreme mass ratio inspirals in the Einstein Toolkit"
 author: Samuel Cupp
 institution: Louisiana State University
 # upload your slides as slides.pdf

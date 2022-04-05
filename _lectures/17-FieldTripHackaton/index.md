@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: "Field Trip / Hackaton"
+title: "LIGO Hampton Field Trip / Hackaton"
 author: TBA
 institution: TBA
 # upload your slides as slides.pdf

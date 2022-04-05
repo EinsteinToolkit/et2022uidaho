@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: "Tutorial: TBA"
+title: "Tutorial: Scheduling in the Einstein Toolkit"
 author: Roland Haas
 institution: National Center for Supercomputing Applications 
 # upload your slides as slides.pdf

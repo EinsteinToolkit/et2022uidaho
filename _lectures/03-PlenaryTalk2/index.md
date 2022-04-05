@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: "Plenary Talk: TBA"
+title: "Numerical relativity beyond general relativity"
 author: Masha Okounkova
 institution: Flatiron Institute
 # upload your slides as slides.pdf

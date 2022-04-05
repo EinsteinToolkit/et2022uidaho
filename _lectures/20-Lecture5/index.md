@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: "Talk/Lecture: TBA"
+title: "The GRChombo code base"
 author: Thomas Helfer
 institution: Johns Hopkins University
 # upload your slides as slides.pdf

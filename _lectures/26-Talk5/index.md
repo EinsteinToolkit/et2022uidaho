@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: "Talk/Lecture: TBA"
+title: "Future of the Einstein Toolkit: CarpetX"
 author: Erik Schnetter
 institution: Perimeter Institute
 # upload your slides as slides.pdf

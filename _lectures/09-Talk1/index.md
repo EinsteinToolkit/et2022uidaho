@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: "Talk/Lecture: TBA"
+title: "The SGRID initial data code"
 author: Wolfgang Tichy
 institution: Florida Atlantic University
 # upload your slides as slides.pdf

@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: "Talk/Lecture: TBA"
+title: "General relativistic magnetohydrodynamics"
 author: Matt Duez
 institution: Washington State University
 # upload your slides as slides.pdf

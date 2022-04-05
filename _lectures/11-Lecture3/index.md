@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: "Talk/Lecture: TBA"
+title: "The NRPyElliptic initial data code"
 author: Thiago Assumpção
 institution: West Virginia University
 # upload your slides as slides.pdf

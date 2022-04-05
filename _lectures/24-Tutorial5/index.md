@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: "Tutorial: TBA"
+title: "Tutorial: The Black Hole Pertubation Toolkit"
 author: Niels Warburton
 institution: University College Dublin
 # upload your slides as slides.pdf
