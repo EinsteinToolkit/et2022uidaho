@@ -1,9 +1,9 @@
 ---
 layout: default
 usemathjax: true
-title: "Talk 3"
-author: TBA
-institution: TBA
+title: Talk/Lecture: TBA
+author: Matt Anderson
+institution: Idaho National Laboratory
 # upload your slides as slides.pdf
 # upload your recorded talk as recording.mp4
 # all other files in this directory will show up as "additional files"
@@ -15,7 +15,7 @@ recording:
 
 {%-capture abstract-%}
 
-Talk 3.
+TBA
 
 {%-endcapture-%}
 

@@ -1,9 +1,9 @@
 ---
 layout: default
 usemathjax: true
-title: "Talk 4"
-author: TBA
-institution: TBA
+title: Talk/Lecture: TBA
+author: Patricia Schmidt (<font color='orange'>Confirmation pending</font>)
+institution: University of Birmingham
 # upload your slides as slides.pdf
 # upload your recorded talk as recording.mp4
 # all other files in this directory will show up as "additional files"
@@ -15,7 +15,7 @@ recording:
 
 {%-capture abstract-%}
 
-Talk 4.
+TBA
 
 {%-endcapture-%}
 

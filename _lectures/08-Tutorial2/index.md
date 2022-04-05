@@ -1,9 +1,9 @@
 ---
 layout: default
 usemathjax: true
-title: "Tutorial 2"
-author: TBA
-institution: TBA
+title: Tutorial: TBA
+author: Yosef Zlochower
+institution: Rochester Institute of Technology
 # upload your slides as slides.pdf
 # upload your recorded talk as recording.mp4
 # all other files in this directory will show up as "additional files"
@@ -15,7 +15,7 @@ recording:
 
 {%-capture abstract-%}
 
-Tutorial 2.
+TBA
 
 {%-endcapture-%}
 

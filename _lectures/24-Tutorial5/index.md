@@ -1,9 +1,9 @@
 ---
 layout: default
 usemathjax: true
-title: "Tutorial 5"
-author: TBA
-institution: TBA
+title: Tutorial: TBA
+author: Niels Warburton
+institution: University College Dublin
 # upload your slides as slides.pdf
 # upload your recorded talk as recording.mp4
 # all other files in this directory will show up as "additional files"
@@ -15,7 +15,7 @@ recording:
 
 {%-capture abstract-%}
 
-Tutorial 5.
+TBA
 
 {%-endcapture-%}
 

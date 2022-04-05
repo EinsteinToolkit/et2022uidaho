@@ -1,9 +1,9 @@
 ---
 layout: default
 usemathjax: true
-title: "Lecture 4"
-author: TBA
-institution: TBA
+title: Talk/Lecture: TBA
+author: Nils Vu
+institution: Max Planck Institute for Gravitational Physics
 # upload your slides as slides.pdf
 # upload your recorded talk as recording.mp4
 # all other files in this directory will show up as "additional files"
@@ -15,7 +15,7 @@ recording:
 
 {%-capture abstract-%}
 
-Lecture 4.
+TBA
 
 {%-endcapture-%}
 

@@ -1,9 +1,9 @@
 ---
 layout: default
 usemathjax: true
-title: "Talk 2"
-author: TBA
-institution: TBA
+title: Talk/Lecture: TBA
+author: Helvi Witek
+institution: University of Illinois Urbana-Champaign
 # upload your slides as slides.pdf
 # upload your recorded talk as recording.mp4
 # all other files in this directory will show up as "additional files"
@@ -15,7 +15,7 @@ recording:
 
 {%-capture abstract-%}
 
-Talk 2.
+TBA
 
 {%-endcapture-%}
 
