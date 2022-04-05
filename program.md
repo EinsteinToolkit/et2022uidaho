@@ -144,54 +144,12 @@ day5:
 </div> <!--tzinfo-->
 </div>
 
-<div class="col-xs-12">
-<h2>Per-day schedules</h2>
+<div class="col-xs-12" markdown="1">
+## Schedule overview
 
 <div class="alert alert-warning" role="alert">
 Tentative, subject to change without notice.
 </div>
-
-All times US Pacific time.
-
-<div class="row fix">
-
-<div class="col-sm-6">
-<h3>Monday, June 13<sup>th</sup>: TBA</h3>
-
-{% include day_schedule_table.html day=page.day1 %}
-
-</div>
-
-<div class="col-sm-6">
-<h3>Tuesday, June 14<sup>th</sup>: TBA</h3>
-
-{% include day_schedule_table.html day=page.day2 %}
-
-</div>
-
-<div class="col-sm-6">
-<h3>Wednesday, June 15<sup>th</sup>: Field trip/hackaton</h3>
-
-{% include day_schedule_table.html day=page.day3 %}
-
-</div>
-
-<div class="col-sm-6">
-<h3>Thursday, June 16<sup>th</sup>: TBA</h3>
-
-{% include day_schedule_table.html day=page.day4 %}
-
-</div>
-
-<div class="col-sm-6">
-<h3>Friday, June 17<sup>th</sup>: TBA</h3>
-
-{% include day_schedule_table.html day=page.day5 %}
-
-</div>
-
-<div class="col-xs-12" markdown="1">
-## Schedule overview
 
 All times US Pacific time.
 
@@ -233,6 +191,48 @@ All times US Pacific time.
   </tr>
 {%-endfor-%}
 </table>
+
+</div>
+
+<div class="col-xs-12">
+<h2>Per-day schedules</h2>
+
+All times US Pacific time.
+
+<div class="row fix">
+
+<div class="col-sm-6">
+<h3>Monday, June 13<sup>th</sup>: TBA</h3>
+
+{% include day_schedule_table.html day=page.day1 %}
+
+</div>
+
+<div class="col-sm-6">
+<h3>Tuesday, June 14<sup>th</sup>: TBA</h3>
+
+{% include day_schedule_table.html day=page.day2 %}
+
+</div>
+
+<div class="col-sm-6">
+<h3>Wednesday, June 15<sup>th</sup>: Field trip/hackaton</h3>
+
+{% include day_schedule_table.html day=page.day3 %}
+
+</div>
+
+<div class="col-sm-6">
+<h3>Thursday, June 16<sup>th</sup>: TBA</h3>
+
+{% include day_schedule_table.html day=page.day4 %}
+
+</div>
+
+<div class="col-sm-6">
+<h3>Friday, June 17<sup>th</sup>: TBA</h3>
+
+{% include day_schedule_table.html day=page.day5 %}
 
 </div>
 
