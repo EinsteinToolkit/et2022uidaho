@@ -4,7 +4,7 @@ usemathjax: true
 title: "LIGO Hanford Field Trip / Hackaton"
 author: The Scientific Organizing Committee
 institution: University of Idaho
-shortinst: LIGO Hanford
+shortinst: Multiple institutions
 # upload your slides as slides.pdf
 # upload your recorded talk as recording.mp4
 # all other files in this directory will show up as "additional files"
