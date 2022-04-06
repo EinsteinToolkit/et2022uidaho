@@ -4,6 +4,7 @@ usemathjax: true
 title: "Docker containers and the Einstein Toolkit"
 author: Matt Anderson
 institution: Idaho National Laboratory
+shortinst: INL
 # upload your slides as slides.pdf
 # upload your recorded talk as recording.mp4
 # all other files in this directory will show up as "additional files"

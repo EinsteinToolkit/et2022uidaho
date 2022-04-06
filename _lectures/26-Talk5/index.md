@@ -4,6 +4,7 @@ usemathjax: true
 title: "Future of the Einstein Toolkit: CarpetX"
 author: Erik Schnetter
 institution: Perimeter Institute
+shortinst: PI
 # upload your slides as slides.pdf
 # upload your recorded talk as recording.mp4
 # all other files in this directory will show up as "additional files"

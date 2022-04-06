@@ -4,6 +4,7 @@ usemathjax: true
 title: "The GRChombo code base"
 author: Thomas Helfer
 institution: Johns Hopkins University
+shortinst: JHU
 # upload your slides as slides.pdf
 # upload your recorded talk as recording.mp4
 # all other files in this directory will show up as "additional files"

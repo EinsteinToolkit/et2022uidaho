@@ -4,7 +4,7 @@ usemathjax: true
 title: "An overview of numerical relativity"
 author: Manuela Campanelli
 institution: Rochester Institute of Technology
-shortinst: "RIT"
+shortinst: RIT
 # upload your slides as slides.pdf
 # upload your recorded talk as recording.mp4
 # all other files in this directory will show up as "additional files"

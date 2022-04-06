@@ -4,6 +4,7 @@ usemathjax: true
 title: "Tutorial: Introduction to the Einstein Toolkit"
 author: Steve Brandt
 institution: Louisiana State University
+shortinst: LSU
 # upload your slides as slides.pdf
 # upload your recorded talk as recording.mp4
 # all other files in this directory will show up as "additional files"

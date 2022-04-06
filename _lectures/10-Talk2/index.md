@@ -4,6 +4,7 @@ usemathjax: true
 title: "Mathematical foundations of numerical realtivity"
 author: Helvi Witek
 institution: University of Illinois Urbana-Champaign
+shortinst: UIUC
 # upload your slides as slides.pdf
 # upload your recorded talk as recording.mp4
 # all other files in this directory will show up as "additional files"

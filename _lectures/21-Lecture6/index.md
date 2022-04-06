@@ -4,6 +4,7 @@ usemathjax: true
 title: "The Black Hole Perturbation Toolkit"
 author: Barry Wardell
 institution: University College Dublin
+shortinst: UCD
 # upload your slides as slides.pdf
 # upload your recorded talk as recording.mp4
 # all other files in this directory will show up as "additional files"
