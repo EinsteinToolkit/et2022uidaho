@@ -1,0 +1,2 @@
+{%-comment-%}extracts the short institution from the lecture in XX-"tag"{%-endcomment-%}
+{%-include get tag=include.tag sep=include.sep field="shortinst"-%}
