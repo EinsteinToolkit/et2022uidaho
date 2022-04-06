@@ -4,6 +4,7 @@ usemathjax: true
 title: "Lightning talk 3"
 author: TBA
 institution: TBA
+shortinst: TBA
 # upload your slides as slides.pdf
 # upload your recorded talk as recording.mp4
 # all other files in this directory will show up as "additional files"
