@@ -40,7 +40,18 @@ mixture of talks and tutorials for both new and advanced users. The
 talks will highlight exciting science cases and the latest developments
 in numerical relativity. On the final day, we will discuss future
 directions and development.
-</p> </div>
+</p>
+
+<p style='text-align: justify;'>
+This year, a special field trip will be offered on Wednesday, June 15 for
+in-person participants to nearby LIGO Hanford, whose direct observation of the
+gravitational waves from a coalescing pair of black holes led to the 2017 Nobel
+Prize in Physics. During the visit, LIGO Hanford will be gearing up for the
+start of O4 (Observing Run 4), due to start at the end of this year. On the same
+day, virtual participants will have the opportunity to attend an Einstein
+Toolkit hackathon.
+</p>
+</div>
 
 <div class="col-xs-12 col-sm-6 col-md-4" markdown="1">
 ## How to Attend
