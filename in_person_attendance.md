@@ -49,9 +49,9 @@ All of those who wish to attend the event in-person are strongly
 encouraged to have been fully vaccinated for COVID-19. The event will be
 held in a room that allows everyone to social distance.
 
-<strong>As of February 15, 2022</strong>, face masks are <u>required</u>
-in all university buildings on the Moscow campus. We will update this
-notice as new guidelines become available.
+<strong>As of March 14, 2022</strong>, the use of face masks is <u>optional</u>
+in all university buildings on the Moscow campus. We will update this notice as
+new guidelines become available.
 
 # Traveling to Moscow, ID
 
