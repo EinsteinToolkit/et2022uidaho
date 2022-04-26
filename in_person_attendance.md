@@ -45,9 +45,9 @@ city has to offer!
 
 # COVID-19 guidelines
 
-All of those who wish to attend the event in-person are strongly
-encouraged to have been fully vaccinated for COVID-19. The event will be
-held in a room that allows everyone to social distance.
+All of those who wish to attend the event in-person are strongly encouraged to
+have been fully vaccinated for COVID-19. The event will be held in a room that
+allows everyone to social distance.
 
 <strong>As of March 14, 2022</strong>, the use of face masks is <u>optional</u>
 in all university buildings on the Moscow campus. We will update this notice as
@@ -122,5 +122,18 @@ Moscow, ID, 83843, USA
 <br>
 <a href="https://moscowmonarch.com/">Hotel website</a>
 </p>
+
+## Parking
+
+<p style='text-align: justify;'>
+The city of Moscow, ID is extremely walkable and thus we strong encourage all participants to walk from their hotel to the Engineering & Physics Building. There is limited free parking on campus during the summer, on the so-called "Orange lots". If you plan on driving, please ensure you park your vehicle in the appropriate lot, as failing to do so may result in parking tickets and/or vehicle towing.
+</p>
+<br>
+<p style='text-align: justify;'>
+The map below shows the location of the orange parking lots, the Engineering & Physics Building, and the approximate location of the recommended hotels.
+</p>
+
+<p style='text-align: center;'>
+<iframe src="images/summer_break_parking_map.pdf#toolbar=0" width="400" height="300" style="border:0;" allowfullscreen="true" loading="lazy"></iframe>
 
 </div>
