@@ -126,11 +126,11 @@ Moscow, ID, 83843, USA
 ## Parking
 
 <p style='text-align: justify;'>
-The city of Moscow, ID is extremely walkable and thus we strong encourage all participants to walk from their hotel to the Engineering & Physics Building. There is limited free parking on campus during the summer, on the so-called "Orange lots". If you plan on driving, please ensure you park your vehicle in the appropriate lot, as failing to do so may result in parking tickets and/or vehicle towing.
+The city of Moscow, ID is extremely walkable and thus we strong encourage all participants to walk from their hotel to the Engineering & Physics Building. There is limited free parking on campus during the summer in the so-called "Orange lots". If you plan on driving, please ensure you park your vehicle in the appropriate lot as failing to do so may result in parking tickets and/or your vehicle being towed.
 </p>
 <br>
 <p style='text-align: justify;'>
-The map below shows the location of the orange parking lots, the Engineering & Physics Building, and the approximate location of the recommended hotels.
+    The map below shows the location of the orange parking lots, the Engineering & Physics Building, and the approximate location of the recommended hotels.
 </p>
 
 <p style='text-align: center;'>
