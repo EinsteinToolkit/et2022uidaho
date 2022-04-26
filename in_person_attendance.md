@@ -134,7 +134,7 @@ The map below shows the location of the orange parking lots, the Engineering & P
 </p>
 
 <p style='text-align: center;'>
-<iframe src="images/summer_break_parking_map.pdf" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="images/summer_break_parking_map.pdf" width="100%" height="500px"></iframe>
 </p>
 
 </div>
