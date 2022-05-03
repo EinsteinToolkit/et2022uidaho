@@ -82,21 +82,23 @@ Moscow.
 
 ### Transportation from Pullman Airport (PUW) to/from Moscow
 
-<p style='text-align: center;'>
+<p style='text-align: justify;'>
 Taxi service is available to and from Pullman Airport (PUW) at a rate of approximately $20 each way. Please contact Fairfield Inn at <a href="tel:+12088824600">+1 (208) 882-4600</a> for taxi information.
 </p>
 
 ### Transportation from Spokane Airport (GEG) to/from Moscow
 
-<p style='text-align: center;'>
+<p style='text-align: justify;'>
 Transportation from Spokane Airport (GEG) is more limited. We recommend either renting a car or carpooling with another participant who is renting a car.
 </p>
 
-<p style='text-align: center;'>
-Alternatively, the following options are available:
-1. Direct bus: GEG to/from Moscow. Advertised fares: $44 One-Way; $88 Round Trip (please see <a href="http://www.northwesterntrailways.com/FareLookup/tabid/55/h2oact/getissue/CityFrom/Spokane%20Airport/CityTo/Moscow/Default.aspx">this website</a> for more information).
-2. Indirect route: Greyhound bus from GEG to Pullman, then taxi from Pullman to Moscow
-3. Indirect route: bus or taxi from GEG to Downtown Spokane, then Greyhound bus from Downtown Spokane to Moscow
+<p style='text-align: justify;'>
+    Alternatively, the following options are available:
+    <ol>
+        <li>Direct bus: GEG to/from Moscow. Advertised fares: $44 One-Way; $88 Round Trip (please see <a href="http://www.northwesterntrailways.com/FareLookup/tabid/55/h2oact/getissue/CityFrom/Spokane%20Airport/CityTo/Moscow/Default.aspx">this website</a> for more information).</li>
+        <li>Indirect route: Greyhound bus from GEG to Pullman, then taxi from Pullman to Moscow.</li>
+        <li>Indirect route: bus or taxi from GEG to Downtown Spokane, then Greyhound bus from Downtown Spokane to Moscow.</li>
+    </ol>
 </p>
 
 # Accommodation
