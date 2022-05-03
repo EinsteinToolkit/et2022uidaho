@@ -55,6 +55,8 @@ new guidelines become available.
 
 # Traveling to Moscow, ID
 
+## Air transportation
+
 <p style='text-align: justify;'>
 There are two airports that serve the Moscow area. The
 first—and recommended—airport is the <a
@@ -74,6 +76,27 @@ Moscow.
 
 <p style='text-align: center;'>
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d694130.4249222663!2d-117.74129834452323!3d47.188263390296314!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x549e16254e306331%3A0x70cd8b086ddc8e08!2sspokane%20international%20airport!3m2!1d47.6212063!2d-117.5333721!4m5!1s0x54a0279c33f11ad1%3A0xed78e077b5f09bbe!2sS%20Main%20St%2C%20Moscow%2C%20ID%2083843!3m2!1d46.723141899999995!2d-117.0014248!5e0!3m2!1sen!2sus!4v1644906479971!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+</p>
+
+## Ground transportation to/from the airports
+
+### Transportation from Pullman Airport (PUW) to/from Moscow
+
+<p style='text-align: center;'>
+Taxi service is available to and from Pullman Airport (PUW) at a rate of approximately $20 each way. Please contact Fairfield Inn at <a href="tel:+12088824600">+1 (208) 882-4600</a> for taxi information.
+</p>
+
+### Transportation from Spokane Airport (GEG) to/from Moscow
+
+<p style='text-align: center;'>
+Transportation from Spokane Airport (GEG) is more limited. We recommend either renting a car or carpooling with another participant who is renting a car.
+</p>
+
+<p style='text-align: center;'>
+Alternatively, the following options are available:
+1. Direct bus: GEG to/from Moscow. Advertised fares: $44 One-Way; $88 Round Trip (please see <a href="http://www.northwesterntrailways.com/FareLookup/tabid/55/h2oact/getissue/CityFrom/Spokane%20Airport/CityTo/Moscow/Default.aspx">this website</a> for more information).
+2. Indirect route: Greyhound bus from GEG to Pullman, then taxi from Pullman to Moscow
+3. Indirect route: bus or taxi from GEG to Downtown Spokane, then Greyhound bus from Downtown Spokane to Moscow
 </p>
 
 # Accommodation
