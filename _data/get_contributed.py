@@ -39,14 +39,13 @@ for participant in participants:
             id = m.group(1)
             directslideurl = "https://docs.google.com/uc?export=download&id=" + id
             slide = requests.get(directslideurl)
-            slidefn = os.path.join(medir, "..", "lightning", tag+".pdf")
+            slidefn = os.path.join(medir, "..", "contributed", tag+".pdf")
             with open(slidefn, "wb") as slidefh:
                 slidefh.write(slide.content)
 
 rows.sort(key = lambda row: row[1])
 rows = [["tag", "name", "institution", "title", "abstract"]] + rows;
 
-with open(os.path.join(medir, "lightning.csv"), "w", newline='\n') as fh:
-    lightning = csv.writer(fh)
-    lightning.writerows(rows)
-
+with open(os.path.join(medir, "contributed.csv"), "w", newline='\n') as fh:
+    contributed = csv.writer(fh)
+    contributed.writerows(rows)

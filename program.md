@@ -29,7 +29,7 @@ day1:
       duration: 40
   - Lecture2:
       duration: 40
-  - Lightning1:
+  - Contributed1:
       duration: 15
   - break:
       duration: 60
@@ -51,9 +51,9 @@ day2:
       duration: 40
   - Lecture4:
       duration: 40
-  - Lightning2:
+  - Contributed2:
       duration: 15
-  - Lightning3:
+  - Contributed3:
       duration: 15
   - break:
       duration: 60
@@ -79,9 +79,9 @@ day4:
       duration: 40
   - Lecture6:
       duration: 40
-  - Lightning4:
+  - Contributed4:
       duration: 15
-  - Lightning5:
+  - Contributed5:
       duration: 15
   - break:
       duration: 60
@@ -103,9 +103,9 @@ day5:
       duration: 40
   - Lecture8:
       duration: 40
-  - Lightning6:
+  - Contributed6:
       duration: 15
-  - Lightning7:
+  - Contributed7:
       duration: 15
   - break:
       duration: 60
