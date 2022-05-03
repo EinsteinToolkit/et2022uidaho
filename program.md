@@ -66,7 +66,7 @@ day2:
 
 day3:
   - FieldTripHackaton:
-      duration: 540
+      duration: 570
 
 day4:
   - Talk3:
