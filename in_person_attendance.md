@@ -95,9 +95,9 @@ Transportation from Spokane Airport (GEG) is more limited. We recommend either r
 <p style='text-align: justify;'>
     Alternatively, the following options are available:
     <ol>
-        <li>Direct bus: GEG to/from Moscow. Advertised fares: $44 One-Way; $88 Round Trip (please see <a href="http://www.northwesterntrailways.com/FareLookup/tabid/55/h2oact/getissue/CityFrom/Spokane%20Airport/CityTo/Moscow/Default.aspx">this website</a> for more information).</li>
-        <li>Indirect route: Greyhound bus from GEG to Pullman, then taxi from Pullman to Moscow.</li>
-        <li>Indirect route: bus or taxi from GEG to Downtown Spokane, then Greyhound bus from Downtown Spokane to Moscow.</li>
+        <li>Direct route: Greyhound/Northwestern Trailways/Apple Line bus from/to GEG to/from Moscow. Advertised fares: $44 One-Way; $88 Round Trip (please see <a href="http://www.northwesterntrailways.com/FareLookup/tabid/55/h2oact/getissue/CityFrom/Spokane%20Airport/CityTo/Moscow/Default.aspx">this website</a> for more information).</li>
+        <li>Indirect route: <a href="https://www.greyhound.com/en-us/bus-from-spokane-to-moscow">Greyhound bus from GEG to Pullman</a>, then taxi from Pullman to Moscow.</li>
+        <li>Indirect route: bus or taxi from GEG to Downtown Spokane, then <a href="https://www.greyhound.com/en-us/bus-from-spokane-to-moscow">Greyhound bus from Downtown Spokane to Moscow</a>.</li>
     </ol>
 </p>
 
