@@ -4,7 +4,7 @@ usemathjax: true
 title: "Tutorial: The Black Hole Pertubation Toolkit"
 author: Niels Warburton
 institution: University College Dublin
-shortinst: UCD
+shortinst: UC Dublin
 # upload your slides as slides.pdf
 # upload your recorded talk as recording.mp4
 # all other files in this directory will show up as "additional files"
