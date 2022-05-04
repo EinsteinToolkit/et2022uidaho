@@ -9,7 +9,7 @@ title: Scientific Program
 # if no duration given it is assumed to be 45min for lectures and 20min for a break
 
 start: "8:25"
-end: "17:55"
+end: "18:05"
 # scheduling granularity. Must be no smaller than shortest scheduled item (eg
 # the short break).
 granularity: 300
@@ -29,10 +29,8 @@ day1:
       duration: 40
   - Lecture2:
       duration: 40
-  - Contributed1:
-      duration: 15
   - break:
-      duration: 90
+      duration: 110
   - Tutorial1:
       duration: 105
   - break:
@@ -51,10 +49,10 @@ day2:
       duration: 40
   - Lecture4:
       duration: 40
+  - Contributed1:
+      duration: 20
   - Contributed2:
-      duration: 15
-  - Contributed3:
-      duration: 15
+      duration: 20
   - break:
       duration: 90
   - Tutorial3:
@@ -66,7 +64,7 @@ day2:
 
 day3:
   - FieldTripHackaton:
-      duration: 570
+      duration: 580
 
 day4:
   - Talk3:
@@ -79,10 +77,10 @@ day4:
       duration: 40
   - Lecture6:
       duration: 40
+  - Contributed3:
+      duration: 20
   - Contributed4:
-      duration: 15
-  - Contributed5:
-      duration: 15
+      duration: 20
   - break:
       duration: 90
   - Tutorial5:
@@ -103,10 +101,10 @@ day5:
       duration: 40
   - Lecture8:
       duration: 40
+  - Contributed5:
+      duration: 20
   - Contributed6:
-      duration: 15
-  - Contributed7:
-      duration: 15
+      duration: 20
   - break:
       duration: 90
   - Tutorial7:
