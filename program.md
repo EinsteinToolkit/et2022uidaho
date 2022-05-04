@@ -30,7 +30,7 @@ day1:
   - Lecture2:
       duration: 40
   - break:
-      duration: 110
+      duration: 120
   - Tutorial1:
       duration: 105
   - break:
