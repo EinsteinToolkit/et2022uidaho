@@ -89,7 +89,7 @@ Taxi service is available to and from Pullman Airport (PUW) at a rate of approxi
 ### Transportation from Spokane Airport (GEG) to/from Moscow
 
 <p style='text-align: justify;'>
-Transportation from Spokane Airport (GEG) is more limited. We strongly recommend either renting a car or carpooling with another participant who is renting a car.
+Transportation from Spokane Airport (GEG) is more limited. We strongly recommend either renting a car or carpooling with another participant who is renting a car. A Google form will be sent out to participants in the near future to help facilitate carpooling and other ground transportation needs.
 </p>
 
 <p style='text-align: justify;'>
