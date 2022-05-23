@@ -48,11 +48,12 @@
     {%-assign _dst_start = _dst_end-%}
     {%-assign _dst_tag = _dst_prevtag-%}
   {%-elsif _dst_tag == "minibreak"-%}
-    {%-assign _dst_start = _dst_start-%}
+    {%-assign _dst_start = _dst_start | minus: page.short_break_duration-%}
     {%-assign _dst_end = _dst_end | minus: page.short_break_duration-%}
-    {%-assign _dst_tag = _dst_prevtag-%}
     {%-assign _dst_startrow = _dst_start | divided_by: page.granularity-%}
     {%-assign _dst_endrow = _dst_end | divided_by: page.granularity-%}
+    {%-assign _dst_rows = _dst_endrow | minus: _dst_startrow-%}
+    {%-assign _dst_start = _dst_end-%}
   {%-else-%}
     {%-assign _dst_startrow = _dst_start | divided_by: page.granularity-%}
     {%-assign _dst_endrow = _dst_end | plus: page.granularity | minus: 1 | divided_by: page.granularity-%}
