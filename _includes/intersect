@@ -17,6 +17,8 @@
   {%else%}
     {%-if _dst_tag == "break"-%}
       {%-assign _dst_duration = 20 | times: 60-%}
+    {%-elsif _dst_tag == "minibreak"-%}
+      {%-assign _dst_duration = 1 | times: 60-%}
     {%-else-%}
       {%-assign _dst_duration = 45 | times: 60-%}
     {%-endif-%}
@@ -48,6 +50,8 @@
   {%-elsif _dst_tag == "minibreak"-%}
     {%-assign _dst_start = _dst_end-%}
     {%-assign _dst_tag = _dst_prevtag-%}
+    {%-assign _dst_startrow = _dst_start | divided_by: page.granularity-%}
+    {%-assign _dst_endrow = _dst_end | divided_by: page.granularity-%}
   {%-else-%}
     {%-assign _dst_startrow = _dst_start | divided_by: page.granularity-%}
     {%-assign _dst_endrow = _dst_end | plus: page.granularity | minus: 1 | divided_by: page.granularity-%}
