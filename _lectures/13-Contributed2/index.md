@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: "Contributed talk 2"
+title: "Quark Matter Conversion in Neutron Star Cores"
 author: Prasad Ravichandran
 institution: Indian Institute of Science Education and Research, Bhopal, India
 shortinst: IISER

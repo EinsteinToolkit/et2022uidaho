@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: "Contributed talk 8"
+title: "Black Holes with a Massive Scalar Field in Dynamical Chern-Simons Gravity"
 author: Chloe Richards
 institution: University of Illinois at Urbana-Champaign
 shortinst: UIUC
