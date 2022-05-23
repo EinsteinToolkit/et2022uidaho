@@ -16,7 +16,7 @@ recording:
 
 {%-capture abstract-%}
 
-TBA
+CarpetX is a new "driver" for the Einstein Toolkit, using the AMReX exascale adaptive mesh refinement framework. I will describe the role of a driver in general, the new features that CarpetX provides, and how they can be used by physics code. These new features include: code that is simpler to write, various dataflow errors that are now automatically detected, improved discretization methods (e.g. conservation, higher order accuracy), and improved performance (e.g. multi-threading, GPUs).
 
 {%-endcapture-%}
 

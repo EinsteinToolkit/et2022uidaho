@@ -1,10 +1,10 @@
 ---
 layout: default
 usemathjax: true
-title: "The SGRID initial data code"
-author: Wolfgang Tichy
-institution: Florida Atlantic University
-shortinst: FAU
+title: "Mathematical Foundations of Numerical Relativity"
+author: Helvi Witek
+institution: University of Illinois Urbana-Champaign
+shortinst: UIUC
 # upload your slides as slides.pdf
 # upload your recorded talk as recording.mp4
 # all other files in this directory will show up as "additional files"

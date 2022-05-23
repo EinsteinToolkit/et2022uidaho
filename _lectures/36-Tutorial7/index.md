@@ -1,10 +1,10 @@
 ---
 layout: default
 usemathjax: true
-title: "Tutorial: Scheduling in the Einstein Toolkit"
-author: Roland Haas
-institution: National Center for Supercomputing Applications 
-shortinst: NCSA
+title: "Tutorial: Automatic Generation of Carpet/CarpetX Thorns with NRPy+"
+author: Steve Brandt
+institution: Louisiana State University
+shortinst: LSU
 # upload your slides as slides.pdf
 # upload your recorded talk as recording.mp4
 # all other files in this directory will show up as "additional files"

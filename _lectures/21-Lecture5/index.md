@@ -16,7 +16,7 @@ recording:
 
 {%-capture abstract-%}
 
-TBA
+GRChombo is an open-source code for numerical relativity simulations first released in 2015. It is developed and maintained by a collaboration of numerical relativists with a wide range of research interests, from early universe cosmology to astrophysics and mathematical general relativity. GRChombo is written entirely in C++14, using hybrid MPI/OpenMP parallelism and vector intrinsics to achieve good performance on the latest architectures. Furthermore, it makes use of the Chombo library for adaptive mesh refinement to allow automatic increasing and decreasing of the grid resolution in regions of arbitrary shape and topology.
 
 {%-endcapture-%}
 

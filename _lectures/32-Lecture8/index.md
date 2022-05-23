@@ -16,7 +16,7 @@ recording:
 
 {%-capture abstract-%}
 
-TBA
+In this talk, I will present an overview of the SpEC and SpECTRE numerical-relativity codes developed by the SXS Collaboration, focusing primarily on the application of simulating merging binary black holes.
 
 {%-endcapture-%}
 

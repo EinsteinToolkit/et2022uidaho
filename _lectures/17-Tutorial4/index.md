@@ -1,10 +1,10 @@
 ---
 layout: default
 usemathjax: true
-title: "Tutorial: Extreme mass ratio inspirals in the Einstein Toolkit"
-author: Samuel Cupp
-institution: Louisiana State University
-shortinst: LSU
+title: "Discussion on community data formats for gravitational wave data in NR"
+author: Multiple
+institution: Multiple
+shortinst: Multiple
 # upload your slides as slides.pdf
 # upload your recorded talk as recording.mp4
 # all other files in this directory will show up as "additional files"
@@ -16,7 +16,8 @@ recording:
 
 {%-capture abstract-%}
 
-TBA
+We will discuss future data formats & accuracy requirements for numerical relativity. This is usefor for the LIGO+, KAGRA, LISA, ET, and CE gravitational wave detectors.
+
 
 {%-endcapture-%}
 
