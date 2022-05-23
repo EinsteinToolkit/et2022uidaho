@@ -1,10 +1,10 @@
 ---
 layout: default
 usemathjax: true
-title: "Discussion on community data formats for gravitational wave data in NR"
-author: Multiple
-institution: Multiple
-shortinst: Multiple
+title: "Discussion on NR gravitational wave data format & accuracy"
+author: Deirdre Shoemaker
+institution: The University of Texas at Austin
+shortinst: UT Austin
 # upload your slides as slides.pdf
 # upload your recorded talk as recording.mp4
 # all other files in this directory will show up as "additional files"
@@ -16,8 +16,7 @@ recording:
 
 {%-capture abstract-%}
 
-We will discuss future data formats & accuracy requirements for numerical relativity. This is usefor for the LIGO+, KAGRA, LISA, ET, and CE gravitational wave detectors.
-
+We will discuss data formats & accuracy requirements for gravitational waves in numerical relativity. This is useful for the LIGO+, KAGRA, LISA, ET, and CE gravitational wave detectors.
 
 {%-endcapture-%}
 
