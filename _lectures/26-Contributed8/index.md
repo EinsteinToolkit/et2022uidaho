@@ -1,10 +1,10 @@
 ---
 layout: default
 usemathjax: true
-title: "Contributed talk 8"
-author: TBA
-institution: TBA
-shortinst: TBA
+title: "Contributed talk 9"
+author: Chloe Richards
+institution: University of Illinois at Urbana-Champaign
+shortinst: UIUC
 # upload your slides as slides.pdf
 # upload your recorded talk as recording.mp4
 # all other files in this directory will show up as "additional files"
@@ -16,7 +16,7 @@ recording:
 
 {%-capture abstract-%}
 
-Contributed talk 8.
+Despite its success story to describe astrophysical phenomena, Einstein’s General Relativity is not a viable candidate for quantum gravity. Among the most popular extensions of general relativity are quadratic gravity theories. In this talk, we will present first results for black holes with a massive scalar field in dynamical Chern-Simons gravity, in which a dynamical pseudo-scalar field is coupled to the Pontryagin density. We have performed numerical relativity simulations of a single rotating black hole in this theory with a linear coupling of the scalar field.
 
 {%-endcapture-%}
 

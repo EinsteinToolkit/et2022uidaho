@@ -1,10 +1,10 @@
 ---
 layout: default
 usemathjax: true
-title: "Contributed talk 3"
-author: TBA
-institution: TBA
-shortinst: TBA
+title: "Visualizing black hole data with proxys"
+author: Maria J. Rodriguez
+institution: Utah State University
+shortinst: USU
 # upload your slides as slides.pdf
 # upload your recorded talk as recording.mp4
 # all other files in this directory will show up as "additional files"
@@ -16,7 +16,7 @@ recording:
 
 {%-capture abstract-%}
 
-Contributed talk 3.
+Employing computational methods in general relativity we can study the shadows for the static double black hole system (an exact solution to Einsetin's equations) that may be an informative proxy for a dynamical binary. Whereas the conical singularity between the binary configuration induces a discontinuity of the scattering angle of photons it produces no observable effect on the shadows, whose edges remain everywhere smooth.
 
 {%-endcapture-%}
 

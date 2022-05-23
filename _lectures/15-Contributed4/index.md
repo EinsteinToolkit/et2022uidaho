@@ -1,10 +1,10 @@
 ---
 layout: default
 usemathjax: true
-title: "Contributed talk 4"
-author: TBA
-institution: TBA
-shortinst: TBA
+title: "Contributed talk 5"
+author: Luis Fernando Temoche Hurtado
+institution: Utah State University
+shortinst: USU
 # upload your slides as slides.pdf
 # upload your recorded talk as recording.mp4
 # all other files in this directory will show up as "additional files"
@@ -16,7 +16,7 @@ recording:
 
 {%-capture abstract-%}
 
-Contributed talk 4.
+Our objective is to show the existence of conformal symmetries in rotating black hole solutions near its event horizon. To do so, we are going to study the cases of both 5D Black Holes and Black Rings. In particular, by applying certain coordinate transformations, we will be able exploit this conformal invariance from its geometry as well as the dynamics of scalar fields propagating on this particular background. The invariance allows as to describe strongly coupled systems, conformal field theories to be specific, in lower dimensions.
 
 {%-endcapture-%}
 
