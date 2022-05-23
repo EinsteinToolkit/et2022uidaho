@@ -50,11 +50,18 @@ day2:
   - Lecture4:
       duration: 40
   - Contributed1:
-      duration: 20
+      duration: 9
+  - minibreak
   - Contributed2:
-      duration: 20
+      duration: 9
+  - minibreak
+  - Contributed3:
+      duration: 9
+  - minibreak
+  - Contributed4:
+      duration: 9
   - break:
-      duration: 90
+      duration: 96
   - Tutorial3:
       duration: 105
   - break:
@@ -77,12 +84,19 @@ day4:
       duration: 40
   - Lecture6:
       duration: 40
-  - Contributed3:
-      duration: 20
-  - Contributed4:
-      duration: 20
+  - Contributed5:
+      duration: 9
+  - minibreak
+  - Contributed6:
+      duration: 9
+  - minibreak
+  - Contributed7:
+      duration: 9
+  - minibreak
+  - Contributed8:
+      duration: 9
   - break:
-      duration: 90
+      duration: 96
   - Tutorial5:
       duration: 105
   - break:
@@ -101,12 +115,16 @@ day5:
       duration: 40
   - Lecture8:
       duration: 40
-  - Contributed5:
-      duration: 20
-  - Contributed6:
-      duration: 20
+  - Contributed9:
+      duration: 9
+  - minibreak
+  - Contributed10:
+      duration: 9
+  - minibreak
+  - Contributed11:
+      duration: 9
   - break:
-      duration: 90
+      duration: 106
   - Tutorial7:
       duration: 105
   - break:

@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: "Contributed talks session 1"
+title: "Contributed talk 1"
 author: TBA
 institution: TBA
 shortinst: TBA

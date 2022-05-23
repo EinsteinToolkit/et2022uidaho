@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: "Contributed talk 2"
+title: "Contributed talk 11"
 author: TBA
 institution: TBA
 shortinst: TBA
@@ -16,7 +16,7 @@ recording:
 
 {%-capture abstract-%}
 
-Contributed talk 2.
+Contributed talk 11.
 
 {%-endcapture-%}
 
