@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: "Contributed talk 1"
+title: "Contributed talk 2"
 author: Prasad Ravichandran
 institution: Indian Institute of Science Education and Research, Bhopal, India
 shortinst: IISER

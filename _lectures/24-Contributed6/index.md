@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: "Contributed talk 7"
+title: "Contributed talk 6"
 author: Siddharth Mahesh
 institution: West Virginia University
 shortinst: WVU
