@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: "Nuclear physics of neutron stars"
+title: "Neutron stars: The most bizarre laboratory for nuclear physics"
 author: Francesca Sammarruca
 institution: University of Idaho
 shortinst: UIdaho

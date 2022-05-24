@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: "Talk/Lecture"
+title: "The Elliptica initial data solver"
 author: Alireza Rashti
 institution: Florida Atlantic University
 shortinst: FAU
