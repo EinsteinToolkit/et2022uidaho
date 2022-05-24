@@ -20,13 +20,15 @@
     {%else%}
       {%-if _dur_day_tag == "break"-%}
         {%-assign _dur_duration = 20 | times: 60-%}
+      {%-elsif _dur_day_tag == "minibreak"-%}
+        {%-assign _dur_duration = 1 | times: 60-%}
       {%-else-%}
         {%-assign _dur_duration = 45 | times: 60-%}
       {%-endif-%}
     {%-endif-%}
     {%-assign _dur_end = _dur_start | plus: _dur_duration-%}
 
-    {%-if _dur_day_tag == "break"-%}
+    {%-if _dur_day_tag == "break" or _dur_day_tag == "minibreak"-%}
       {%comment%}remove implicit 5min break from previous item{%endcomment%}
       {%-assign _dur_start = _dur_start | minus: page.short_break_duration-%}
       {%-assign _dur_end = _dur_end | minus: page.short_break_duration-%}
