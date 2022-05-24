@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: "Contributed talk 5"
+title: "Conformal Symmetries in Rotating Black Holes"
 author: Luis Fernando Temoche Hurtado
 institution: Utah State University
 shortinst: USU

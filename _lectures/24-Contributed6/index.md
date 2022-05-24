@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: "Contributed talk 7"
+title: "Improving the performance of SEOBNR using NRPy+"
 author: Siddharth Mahesh
 institution: West Virginia University
 shortinst: WVU
