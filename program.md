@@ -62,11 +62,13 @@ day2:
       duration: 10
   - break:
       duration: 95
-  - Tutorial3:
-      duration: 105
+  - Talk3:
+      duration: 40
+  - Talk4:
+      duration: 40
   - break:
       duration: 30
-  - Tutorial4:
+  - Tutorial3:
       duration: 105
 
 day3:
@@ -74,10 +76,8 @@ day3:
       duration: 580
 
 day4:
-  - Talk3:
-      duration: 40
-  - Talk4:
-      duration: 40
+  - Tutorial4:
+      duration: 80
   - break:
       duration: 30
   - Lecture5:
