@@ -77,7 +77,7 @@ day3:
 
 day4:
   - Tutorial4:
-      duration: 80
+      duration: 85
   - break:
       duration: 30
   - Lecture5:
