@@ -70,6 +70,8 @@ day2:
       duration: 30
   - Tutorial3:
       duration: 105
+  - GroupPhoto:
+      duration: 15
 
 day3:
   - FieldTripHackaton:
