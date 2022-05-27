@@ -16,7 +16,18 @@ recording:
 
 {%-capture abstract-%}
 
-TBA
+With an increasing demand of extensive parallel computing in numerical
+simulations addressing various astrophysical problems, codes which can
+efficiently work on GPUs are the need of the hour. In the first part
+of this tutorial, we will provide a short introduction on CarpetX, a
+new driver for the Einstein Toolkit. Next, we will briefly discuss
+features of a new general relativistic (magneto)hydrodynamic code
+AsterX, based on CarpetX, which is designed to work on GPUs. AsterX
+also takes advantage of the block-structured adaptive mesh refinement
+provided by CarpetX through the AMReX framework. The second part of
+the tutorial will be a hands-on session during which participants will
+work on a few basic examples based on CarpetX, followed by a test
+simulation performed with AsterX on a GPU.
 
 {%-endcapture-%}
 
