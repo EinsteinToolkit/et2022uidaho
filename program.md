@@ -125,8 +125,10 @@ day5:
       nobreak: true
   - Contributed11:
       duration: 10
+  - Contributed12:
+      duration: 10
   - break:
-      duration: 105
+      duration: 95
   - Tutorial7:
       duration: 105
   - break:
