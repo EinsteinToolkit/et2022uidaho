@@ -37,7 +37,11 @@
         {%-assign _dur_max_end = _dur_end-%}
         {%-assign _dur_full_duration = _dur_full_duration | plus: _dur_end | minus: _dur_start-%}
       {%-endif-%}
-      {%-assign _dur_start = _dur_end | plus: page.short_break_duration-%}
+      {%-if _dur_opts.nobreak-%}
+        {%-assign _dur_start = _dur_end-%}
+      {%-else-%}
+        {%-assign _dur_start = _dur_end | plus: _dur_program.["short_break_duration"]-%}
+      {%-endif-%}
     {%-endif-%}
   {%-endfor-%}
   {%-if _dur_min_start-%}{%-break-%}{%-endif-%}
