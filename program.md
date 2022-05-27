@@ -125,6 +125,7 @@ day5:
       nobreak: true
   - Contributed11:
       duration: 10
+      nobreak: true
   - Contributed12:
       duration: 10
   - break:
