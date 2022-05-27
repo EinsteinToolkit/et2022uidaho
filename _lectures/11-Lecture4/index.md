@@ -16,7 +16,7 @@ recording:
 
 {%-capture abstract-%}
 
-TBA
+The new SpECTRE code (currently in development by the SXS collaboration) is designed with parallelization at its core. With discontinuous Galerkin methods and a task-based approach to parallelism we are aiming for large-scale simulations on current and future supercomputers. The initial data solver for the code is based in these same principles. I outline the stack of task-based parallel iterative algorithms for the solution of elliptic equations that we have developed to solve initial data problems effectively on many cores. I show how our multigrid-Schwarz preconditioned Newton-Krylov solver achieves resolution-independent iteration counts, and how we solve for BBH initial data already about ten times faster than SpEC. Finally, I give a glimpse into interdisciplinary applications of our new fast elliptic solver.
 
 {%-endcapture-%}
 
