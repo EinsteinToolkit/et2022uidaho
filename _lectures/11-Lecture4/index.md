@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: "The SPECTRE initial data solver"
+title: "The SpECTRE initial data solver"
 author: Nils Vu
 institution: Max Planck Institute for Gravitational Physics
 shortinst: MPI

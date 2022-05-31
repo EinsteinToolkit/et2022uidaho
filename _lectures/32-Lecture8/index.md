@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: "The SpEC and SPECTRE codes"
+title: "The SpEC and SpECTRE codes"
 author: Geoffrey Lovelace
 institution: California State University
 shortinst: Cal State Fullerton
