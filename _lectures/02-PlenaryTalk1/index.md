@@ -16,7 +16,7 @@ recording:
 
 {%-capture abstract-%}
 
-TBA
+Gravitational-waves observations of several binary compact mergers heralded in a new kind of astronomy, one integrating its findings with those obtained from electromagnetic and/or neutrino observations. Multi-messenger astronomy promises to revolutionize our understanding of the universe by providing dramatically contrasting views of the same objects. To understand this unprecedented wealth of observational evidence, theoretical calculations are required in order to link data with underlying physics. However, these demand the creation of new computational tools that can handle an increasingly wide range of physical treatments, characteristic scales, and levels of complexity. I will present here my perspective on some of the key challenges, and on new exciting developments in the field of numerical relativity and computational astrophysics, keeping an eye on the future of the  Einstein Toolkit.
 
 {%-endcapture-%}
 
