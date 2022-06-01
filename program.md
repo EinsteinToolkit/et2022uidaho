@@ -50,34 +50,36 @@ day2:
   - Lecture4:
       duration: 40
   - Contributed1:
-      duration: 9
-  - minibreak
+      duration: 10
+      nobreak: true
   - Contributed2:
-      duration: 9
-  - minibreak
+      duration: 10
+      nobreak: true
   - Contributed3:
-      duration: 9
-  - minibreak
+      duration: 10
+      nobreak: true
   - Contributed4:
-      duration: 9
+      duration: 10
   - break:
-      duration: 96
-  - Tutorial3:
-      duration: 105
+      duration: 95
+  - Talk3:
+      duration: 40
+  - Talk4:
+      duration: 40
   - break:
       duration: 30
-  - Tutorial4:
+  - Tutorial3:
       duration: 105
+  - GroupPhoto:
+      duration: 15
 
 day3:
   - FieldTripHackaton:
       duration: 580
 
 day4:
-  - Talk3:
-      duration: 40
-  - Talk4:
-      duration: 40
+  - Tutorial4:
+      duration: 85
   - break:
       duration: 30
   - Lecture5:
@@ -85,18 +87,18 @@ day4:
   - Lecture6:
       duration: 40
   - Contributed5:
-      duration: 9
-  - minibreak
+      duration: 10
+      nobreak: true
   - Contributed6:
-      duration: 9
-  - minibreak
+      duration: 10
+      nobreak: true
   - Contributed7:
-      duration: 9
-  - minibreak
+      duration: 10
+      nobreak: true
   - Contributed8:
-      duration: 9
+      duration: 10
   - break:
-      duration: 96
+      duration: 95
   - Tutorial5:
       duration: 105
   - break:
@@ -116,15 +118,18 @@ day5:
   - Lecture8:
       duration: 40
   - Contributed9:
-      duration: 9
-  - minibreak
+      duration: 10
+      nobreak: true
   - Contributed10:
-      duration: 9
-  - minibreak
+      duration: 10
+      nobreak: true
   - Contributed11:
-      duration: 9
+      duration: 10
+      nobreak: true
+  - Contributed12:
+      duration: 10
   - break:
-      duration: 106
+      duration: 95
   - Tutorial7:
       duration: 105
   - break:

@@ -1,10 +1,10 @@
 ---
 layout: default
 usemathjax: true
-title: "Tutorial: GPUs and the Einstein Toolkit"
-author: Lorenzo Ennoggi, Jay Kalinani, and Federico Lopez Armengol
-institution: Rochester Institute of Technology and University of Padova 
-shortinst: RIT and UNIPD
+title: "Group Photo!"
+author: In-person participants
+institution: University of Idaho
+shortinst: UIdaho
 # upload your slides as slides.pdf
 # upload your recorded talk as recording.mp4
 # all other files in this directory will show up as "additional files"
@@ -16,7 +16,7 @@ recording:
 
 {%-capture abstract-%}
 
-TBA
+We will use this time to take a group photo of all in-person participants!
 
 {%-endcapture-%}
 

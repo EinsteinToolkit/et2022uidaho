@@ -16,7 +16,18 @@ recording:
 
 {%-capture abstract-%}
 
-TBA
+This course covers the basics of the Einstein Toolkit:
+
+1. A brief history;
+2. what the Einstein Toolkit is and can do;
+3. How to install the ET (including prerequisites);
+4. How to run the ET and create a rudimentary plot of some of the data generated.
+
+All of the above steps are carried out within a Jupyter notebook. This means that there are no hardware requirements for your computer.
+
+Familiarity with the linux command line is required, and some minimal knowledge of Python is helpful.
+
+Note that this course replicates the material available in the online tutorial.
 
 {%-endcapture-%}
 

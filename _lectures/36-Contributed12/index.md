@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: "Tutorial: Post-processing Cactus simulations with Python"
+title: "Jhuki: a Python library for ET parameter file preparation"
 author: Gabriele Bozzola
 institution: University of Arizona
 shortinst: UA
@@ -16,13 +16,7 @@ recording:
 
 {%-capture abstract-%}
 
-kuibit is a Python library for quantitative post-processing and visualization of
-Cactus simulations. In this tutorial, I will first introduce the package and
-present some of its design choices. Then, I will walk through the first steps
-for new users, including installation, setup, and running some provided
-examples. Next, I will develop a script from scratch for a new analysis and
-visualization. In doing this, I will discuss some of the most important aspects
-of the library.
+Preparing a new parameter file for Einstein Toolkit simulation can be a nuanced task. In this talk, I'll present Jhuki, a Python library to simplify the process. Jhuki provides abstractions that automatically take care of several low-level details, dramatically reducing errors and improving extensibility and reusability of parameter files. Jhuki is ideally suited for designing parametric studies. The library is open-source and under development.
 
 {%-endcapture-%}
 

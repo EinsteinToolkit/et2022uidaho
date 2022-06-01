@@ -1,7 +1,7 @@
 ---
 layout: default
 usemathjax: true
-title: "Nuclear physics of neutron stars"
+title: "Neutron stars: The most bizarre laboratory for nuclear physics"
 author: Francesca Sammarruca
 institution: University of Idaho
 shortinst: UIdaho
@@ -16,7 +16,11 @@ recording:
 
 {%-capture abstract-%}
 
-TBA
+This presentation will address the crucial nuclear physics ingredients which govern the structure and evolution of neutron stars. The focal point is how the equation of state of neutron-rich matter — in particular, the density dependence of the symmetry energy — links nuclear forces to systems 55 orders of magnitude heavier than atomic nuclei.
+
+Our predictions are based on high-quality two-nucleon forces and consistent three-nucleon forces, derived from chiral effective field theory. The importance of the ab initio approach is emphasized.
+
+Supported by the US Department of Energy.
 
 {%-endcapture-%}
 
