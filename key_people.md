@@ -31,28 +31,53 @@ manualrows: true
 </div>
 
 <div class="col-xs-6 col-sm-3" markdown="1">
-## Lecturers
-* TBD
-</div>
-
-<div class="col-xs-6 col-sm-3" markdown="1">
-## Invited Speakers
-* TBD
+## Invited Speakers/Lecturers
+* Matt Anderson (INL)
+* Thiago Assumpção (WVU)
+* Gabriele Bozzola (UA)
+* Steve Brandt (LSU)
+* Manuela Campanelli (RIT)
+* Matt Duez (WSU)
+* Lorenzo Ennoggi (RIT)
+* Roland Haas (NCSA)
+* Thomas Helfer (JHU)
+* Jay Kalinani (UNIPD)
+* Federico Lopez Armengol (RIT)
+* Geoffrey Lovelace (Cal State Fullerton)
+* Masha Okounkova (Flatiron)
+* Alireza Rashti (FAU)
+* Francesca Sammarruca (UIdaho)
+* Erik Schnetter (PI)
+* Deirdre Shoemaker (UT Austin)
+* Wolfgang Tichy (FAU)
+* Nils Vu (MPI)
+* Niels Warburton (UC Dublin)
+* Barry Wardell (UC Dublin)
+* Leo Werneck (UIdaho)
+* Helvi Witek (UIUC)
+* Yosef Zlochower (RIT)
 </div>
 
 <div class="col-xs-6 col-sm-3" markdown="1">
 ## Contributors
-* TBD
+* Maria Babiuc Hamilton (Marshall University)
+* Gabriele Bozzola (UA)
+* Alexandru Dima (UIUC)
+* Zach Etienne (UIdaho)
+* Atul Kedia (RIT)
+* Siddharth Mahesh (WVU)
+* Terrence Pierre Jacques (WVU)
+* Prasad Ravichandran (IISER)
+* Chloe Richards (UIUC)
+* Maria J. Rodriguez (USU)
+* Luis Fernando Temoche Hurtado (USU)
+* Samuel Tootle (Goethe University)
 </div>
 
 <div class="col-xs-6 col-sm-3" markdown="1">
 ## Hackathon Mentors
-* TBD
-</div>
-
-<div class="col-xs-6 col-sm-3" markdown="1">
-## Beta Testers
-* TBD
+* Roland Haas (NCSA)
+* Helvi Witek (UIUC)
 </div>
 
 </div> <!--row-->

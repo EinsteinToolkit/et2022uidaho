@@ -16,7 +16,7 @@ recording:
 
 {%-capture abstract-%}
 
-TBA
+The Black Hole Perturbation Toolkit brings together software and data relating to black hole perturbation theory. These can be used to model gravitational radiation from small mass ratio binaries as well as from the ringdown of black holes. The former are key sources for the future space-based gravitational wave detector, LISA. In this talk I will give an overview of the toolkit, including a summary of the tools it provides. 
 
 {%-endcapture-%}
 
