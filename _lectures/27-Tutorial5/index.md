@@ -16,7 +16,7 @@ recording:
 
 {%-capture abstract-%}
 
-TBA
+The Black Hole Perturbation Toolkit is a collection of software and data relating to black hole perturbation theory. In this tutorial I will show how to use the Teukolsky Mathematica package, and related packages, to calculate waveforms for small mass ratio binaries. I will also show how to compare these waveforms with those from numerical relativity simulations. I will also demonstrate how to rapidly calculate waveforms for eccentric binaries using the python Fast EMRI Waveforms package.
 
 {%-endcapture-%}
 
