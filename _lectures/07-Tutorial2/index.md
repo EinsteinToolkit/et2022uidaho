@@ -16,7 +16,7 @@ recording:
 
 {%-capture abstract-%}
 
-TBA
+This tutorial covers designing and implementing a new physics thorn within the Einstein Toolkit. The system considered here is the Maxwell equations for electromagnetic waves interacting with dielectrics. Topics will include: adding new Cactus grid variables, writing and scheduling functions that update these variables, adding custom runtime parameters, running the simulations, and simple visualizations of the results.
 
 {%-endcapture-%}
 
