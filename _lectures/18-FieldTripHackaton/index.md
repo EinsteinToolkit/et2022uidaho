@@ -16,7 +16,7 @@ recording:
 
 {%-capture abstract-%}
 
-## Field Trip
+<h2>Field Trip</h2>
 
 The number of drivers available to transport participants to LIGO Hanford on Wednesday June 15 will be limited and participants had to register interest in the field trip in advance. Note that proof of vaccination for COVID-19, defined as two vaccination shots and a booster, will be needed for all travelers to access the LIGO site.
 
