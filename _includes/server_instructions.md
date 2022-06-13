@@ -36,7 +36,7 @@ the account creation form.
 
 Once your account has been created you can log in via
 [https://et2022uidaho.ncsa.illinois.edu](https://et2022uidaho.ncsa.illinois.edu)
-filling out only the `User` and `Password` fields.
+filling out only the `Username` and `Password` fields.
 
 ### Transferring data out of the tutorial environment
 
