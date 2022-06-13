@@ -60,7 +60,7 @@ a fresh setup, please do the following:
 
 1. start a Terminal using the `New` button in the file listing
 1. remove all files from your home directory using the command `rm -rf $HOME`
-1. stop your environment using the `Control Panel` button the `Stop My Server`
+1. stop your environment using the `Control Panel` button then `Stop My Server`
 1. log back in using [https://et2022uidaho.ncsa.illinois.edu](https://et2022uidaho.ncsa.illinois.edu)
 
 This will restore all files to the state they were at your initial login.
