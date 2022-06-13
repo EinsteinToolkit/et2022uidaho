@@ -25,5 +25,9 @@ This tutorial covers designing and implementing a new physics thorn within the E
 
 The thorn is available on [BitBucket](https://bitbucket.org/yosef_zlochower/tutorial/src/tutorial_2022/)
 
+(Older) Jupyter notebooks are also available in the tutorial server as SimpleMaxwell_CactusAndDesignIntro.ipynb .
+
+{% include server_instructions.md %}
+
 [Edit on GitHub](https://github.com/EinsteinToolkit/et2021uiuc/edit/master/{{page.path}})
 </div>
