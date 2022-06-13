@@ -34,5 +34,7 @@ simulation performed with AsterX on a GPU.
 <div class="col-xs-12" markdown="1">
 {% include lecture.md abstract=abstract %}
 
+{% include server_instructions.md %}
+
 [Edit on GitHub](https://github.com/EinsteinToolkit/et2021uiuc/edit/master/{{page.path}})
 </div>

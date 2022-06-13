@@ -23,5 +23,7 @@ In binary mergers, the mass ratio plays a significant role in determining the be
 <div class="col-xs-12" markdown="1">
 {% include lecture.md abstract=abstract %}
 
+{% include server_instructions.md %}
+
 [Edit on GitHub](https://github.com/EinsteinToolkit/et2021uiuc/edit/master/{{page.path}})
 </div>
