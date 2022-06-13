@@ -6,7 +6,7 @@ of Theoretical Physics](https://www.perimeterinstitute.ca/).
 
 There are two different environments offered:
 
-1. for the Einnstein Toolkit and Self Force 1D tutorials on Monday and Tuesday
+1. for the Einstein Toolkit and Self Force 1D tutorials on Monday and Tuesday
 2. for the CarpetX tutorial on Friday
 
 Please make sure to select the correct one for the tutorial you are attending.
@@ -14,7 +14,7 @@ Please make sure to select the correct one for the tutorial you are attending.
 All required files are already present in the environment, you do not need to
 upload any files or download any software.
 
-Each environmen will be available only for the duration of each tutorial.
+Each environment will be available only for the duration of each tutorial.
 Data stored persists in between logins but will be removed after the end of the
 workshop.
 
@@ -32,7 +32,7 @@ share that code with anyone.
 Account creation is automatic and your account is active the moment you submit
 the account creation form.
 
-### Loging in
+### Logging in
 
 Once your account has been created you can log in via
 [https://et2022uidaho.ncsa.illinois.edu](https://et2022uidaho.ncsa.illinois.edu)
@@ -40,7 +40,7 @@ filling out only the `User` and `Password` fields.
 
 ### Transferring data out of the tutorial environment
 
-Please select the files you would like to download in Jupyter's file maneger
+Please select the files you would like to download in Jupyter's file manager
 then use the `Download` button in the toolbar above the list of files to
 download them to your laptop.
 
