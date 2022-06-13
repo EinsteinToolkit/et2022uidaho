@@ -23,5 +23,7 @@ This tutorial covers designing and implementing a new physics thorn within the E
 <div class="col-xs-12" markdown="1">
 {% include lecture.md abstract=abstract %}
 
+The thorn is available on [BitBucket](https://bitbucket.org/yosef_zlochower/tutorial/src/tutorial_2022/)
+
 [Edit on GitHub](https://github.com/EinsteinToolkit/et2021uiuc/edit/master/{{page.path}})
 </div>
