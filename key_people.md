@@ -77,7 +77,6 @@ manualrows: true
 <div class="col-xs-6 col-sm-3" markdown="1">
 ## Hackathon Mentors
 * Roland Haas (NCSA)
-* Helvi Witek (UIUC)
 </div>
 
 </div> <!--row-->
