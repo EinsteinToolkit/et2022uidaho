@@ -24,6 +24,8 @@ The number of drivers available to transport participants to LIGO Hanford on Wed
 
 ## Hackathon
 
+**In person attendance**: We will use room 309 in the physics building, upstairs from the ET summer school lecture hall. Coffee and tea are provided.
+
 The hackathon uses different [Zoom link](https://illinois.zoom.us/j/87051071723?pwd=Z2NMOVFHNnhIOWxJdDZ3VHNBSDJ0QT09 Zoom link) than the main school and workshop. A Zoom account (of any type) is required to join and there will be a waiting room.
 
 A list of proposed Hackathon tasks is available on the [Einstein Toolkit wiki](https://docs.einsteintoolkit.org/et-docs/ET_hackathon) and most topics can be found by searching for [hackathon](https://bitbucket.org/einsteintoolkit/tickets/issues?status=new&status=open&q=hackathon) in the ticket system.
