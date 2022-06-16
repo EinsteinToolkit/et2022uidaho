@@ -18,7 +18,7 @@ recording:
 
 We will discuss data formats & accuracy requirements for gravitational waves in numerical relativity. This is useful for the LIGO+, KAGRA, LISA, ET, and CE gravitational wave detectors.
 
-A Google Docs containing the chat messages sent during the discussion can be accessed using the following link: https://docs.google.com/document/d/1elKJtiDzT9jZW-aefGERyF5xSgyOBkAUV7MTEURBRWs/edit
+A Google Docs containing the chat messages sent during the discussion can be accessed using [this link](https://docs.google.com/document/d/1elKJtiDzT9jZW-aefGERyF5xSgyOBkAUV7MTEURBRWs/edit).
 
 {%-endcapture-%}
 
