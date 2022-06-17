@@ -190,11 +190,12 @@ All times US Pacific time.
 {%-for row in (0..maxrow)-%}
   {%-comment-%} create information for row of time in alternating colours {%-endcomment-%}
   {%-assign time = row | times: page.granularity | plus: starttime | date: "%I:%M %p"-%}
-  {%-assign half_hour = row | modulo: "6"-%}
+  {%-assign half_hour = row | times: page.granularity | modulo: "1800"-%}
   {%-comment-%} ensure final time block is exactly end at the final time but is not longer than 30minutes (6 units of 5 minutes) {%-endcomment-%}
   {%-assign timerows = maxrow | minus: row | plus: 1-%}
-  {%-if timerows > 6-%}
-    {%-assign timerows = 6-%}
+  {%-assign halfhourrows = 1800 | divided_by: page.granularity-%}
+  {%-if timerows > halfhourrows-%}
+    {%-assign timerows = halfhourrows-%}
   {%-endif-%}
 
   <tr>
