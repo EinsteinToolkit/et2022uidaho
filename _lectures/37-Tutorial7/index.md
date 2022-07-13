@@ -10,7 +10,7 @@ shortinst: LSU
 # all other files in this directory will show up as "additional files"
 # alternatively you can override by uncommenting and giving an explict URL:
 slides: 
-recording: 
+recording: https://youtu.be/d6VZYiAKvXc
 ---
 {% include base.html %}
 
