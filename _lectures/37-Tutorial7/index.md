@@ -9,7 +9,7 @@ shortinst: LSU
 # upload your recorded talk as recording.mp4
 # all other files in this directory will show up as "additional files"
 # alternatively you can override by uncommenting and giving an explict URL:
-slides: 
+slides: https://github.com/stevenrbrandt/carpetx-install/blob/main/notebooks/NRPyWaveToy.ipynb
 recording: https://youtu.be/d6VZYiAKvXc
 ---
 {% include base.html %}
